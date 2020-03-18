@@ -217,7 +217,7 @@
   
   - 说明
   
-    添加`<trainID>`为`-i`，`<ticketNum>`为`-n`，`<seatNum>`为`-m`，`<stations>`为`-s`，`<prices>`为`-p`，`<startTime>`为`-x`，`<travelTimes>`为`-t`，`<stopoverTimes>`为`-o`，`<saleDate>`为`-d`，`<type>`为`-y`的车次。
+    添加`<trainID>`为`-i`，`<stationNum>`为`-n`，`<seatNum>`为`-m`，`<stations>`为`-s`，`<prices>`为`-p`，`<startTime>`为`-x`，`<travelTimes>`为`-t`，`<stopoverTimes>`为`-o`，`<saleDate>`为`-d`，`<type>`为`-y`的车次。
     
     由于`-s`、`-p`、`-t`、`-o`和`-d`由多个值组成，输入时两个值之间以`|`隔开（仍是一个不含空格的字符串）。
     
