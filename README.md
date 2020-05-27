@@ -382,7 +382,7 @@
   
     `257000`
   
-    `> buy_ticket -u Lappland -i HAPPY_TRAIN -d 08-17 -n 500 -f 上院 -t 下院 -q true`
+    `> buy_ticket -u Lappland -i HAPPY_TRAIN -d 08-16 -n 500 -f 上院 -t 下院 -q true`
   
     `queue`
   
@@ -569,4 +569,14 @@
 - modify_profile中，被修改至的权限有限制吗？
 
 有的，需要低于`-c`的权限。（文档已更新）
+
+- buy_ticket的时间是指？
+
+和查询一致，是指乘车的时间而非列车从始发站发车的时间。
+
+- 对于只有两站的车次，-o参数是什么？
+
+-o参数内容为一个下划线（`-o _`）
+
+
 
