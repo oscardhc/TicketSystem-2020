@@ -2235,4 +2235,3 @@ queue
 [success] IHEARDthatyouask 贵州省福泉市 07-02 22:30 -> 浙江省台州市 07-03 19:52 22738 13061
 [success] IHEARDthatyouask 贵州省福泉市 07-05 22:30 -> 河南省邓州市 07-06 10:12 7931 4509
 bye
-Program ended with exit code: 0
