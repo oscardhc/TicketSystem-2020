@@ -1,0 +1,1645 @@
+add_user -c cur -u I_am_the_admin -p awsl -n 奥斯卡 -m foo@bar.com -g 10
+login -u I_am_the_admin -p awsl
+query_profile -c I_am_the_admin -u I_am_the_admin
+add_user -c I_am_the_admin -u Hoshiguma -p 8oOogQDu5kz3HYvrS -n 星熊 -m MANIFESTO.OF@THE.COMMUNIST -g 7
+login -u Hoshiguma -p 8oOogQDu5kz3HYvrS
+add_user -c I_am_the_admin -u Plume -p K2J5s11Sy96f!W2h -n 翎羽 -m PARTY.A.spectre@is.haunting -g 9
+login -u Plume -p K2J5s11Sy96f!W2h
+add_user -c Plume -u Astesia -p gXUQCn6uCZh6mQXH -n 星极 -m Europethe.spectre@of.Communism -g 6
+login -u Astesia -p gXUQCn6uCZh6mQXH
+add_user -c Hoshiguma -u Specter -p jV_3bKkF-u2Q-SaD$ -n 幽灵鲨 -m All.the.Powers@of.old -g 6
+login -u Specter -p jV_3bKkF-u2Q-SaD$
+query_profile -c I_am_the_admin -u Plume
+query_profile -c I_am_the_admin -u I_am_the_admin
+query_profile -c I_am_the_admin -u Plume
+add_user -c I_am_the_admin -u Shaw -p p3l8gtXP!WYVKf1 -n 阿消 -m Europe.have@entered.into -g 9
+login -u Shaw -p p3l8gtXP!WYVKf1
+add_user -c Plume -u Estelle -p tx4CGW9auzFTMyN -n 艾丝黛尔 -m a.holy.alliance@to.exorcise -g 8
+login -u Estelle -p tx4CGW9auzFTMyN
+add_user -c I_am_the_admin -u Flamebringer -p 6GX3OjDi6ww9Fn -n 炎客 -m this.spectre@Pope.and -g 7
+login -u Flamebringer -p 6GX3OjDi6ww9Fn
+add_user -c Specter -u Haze -p gcZ$wthIl126uBPWN -n 夜烟 -m Czar.Metternich@and.Guizot -g 3
+login -u Haze -p gcZ$wthIl126uBPWN
+add_user -c Estelle -u Steward -p 5XuusE2UxkM -n 史都华德 -m French.Radicals@and.German -g 5
+login -u Steward -p 5XuusE2UxkM
+query_profile -c Flamebringer -u Haze
+query_profile -c Shaw -u Astesia
+modify_profile -c Plume -u Haze -m policespies@Where.is
+add_user -c Shaw -u Chen -p buRK4OALybCUv5Mk9x8F -n 陈陈 -m the.party.in@opposition.that -g 8
+login -u Chen -p buRK4OALybCUv5Mk9x8F
+add_user -c Flamebringer -u Earthspirit -p 2H8CYpbdHf7 -n 地灵 -m has.not.been@decried.as -g 5
+login -u Earthspirit -p 2H8CYpbdHf7
+query_profile -c Hoshiguma -u Haze
+add_user -c Astesia -u Dobermann -p gzJ6DD$GbQM_ -n 杜宾 -m Communistic@by.its -g 5
+login -u Dobermann -p gzJ6DD$GbQM_
+add_user -c Flamebringer -u Ansel -p 6oiRelwn5gqIscw5 -n 安赛尔 -m opponents.in@power.Where -g 4
+login -u Ansel -p 6oiRelwn5gqIscw5
+add_user -c Steward -u Snowsant -p RF0$HL6w_W5HqO_Bw1Qk -n 雪雉 -m is.the.Opposition@that.has -g 3
+login -u Snowsant -p RF0$HL6w_W5HqO_Bw1Qk
+query_profile -c Shaw -u Ansel
+add_user -c I_am_the_admin -u Spot -p GpUDDkw5zSTl3-2mL3V2 -n 斑点 -m not.hurled@back.the -g 9
+login -u Spot -p GpUDDkw5zSTl3-2mL3V2
+add_user -c I_am_the_admin -u Firewatch -p 4QciiajRuNbpc -n 守林人 -m branding.reproach@of.Communism -g 7
+login -u Firewatch -p pcCVvpL1im26i2To3Z
+query_profile -c I_am_the_admin -u Snowsant
+add_user -c Ansel -u Blaze -p JABjufxL!rQMCnY -n 煌煌 -m against.the@more.advanced -g 1
+login -u Blaze -p DIOP5VzAcPpiArtE3
+add_user -c Ansel -u Scavenger -p HoHzwlUmKlT8J7 -n 清道夫 -m opposition@parties.as -g 3
+login -u Scavenger -p HoHzwlUmKlT8J7
+logout -u Astesia
+add_user -c Hoshiguma -u Vanilla -p Sw9YOVLKIg29tKLR!t_ -n 香草 -m well.as.against@its.reactionar -g 5
+login -u Vanilla -p bz$TLy5oFSjFL30m
+query_profile -c Dobermann -u Scavenger
+modify_profile -c Estelle -u Snowsant -p 1$oR4v6Vx5tcwOG
+query_profile -c Estelle -u Blaze
+query_profile -c Specter -u Scavenger
+add_user -c Flamebringer -u Vigna -p j3V_r3Ax9xxa!45UBWmX -n 红豆 -m adversaries@Two.things -g 5
+login -u Vigna -p j3V_r3Ax9xxa!45UBWmX
+query_profile -c Earthspirit -u Snowsant
+add_user -c Hoshiguma -u Warfarin -p 81AKngmdfYVUM -n 华法琳 -m result.from@this.fact -g 6
+login -u Warfarin -p 81AKngmdfYVUM
+query_profile -c Flamebringer -u Haze
+add_user -c Scavenger -u Conviction -p 5o5VCqtuiC8hJPMi$6Q -n 断罪者 -m I.Communism@is.already -g 2
+login -u Conviction -p 5o5VCqtuiC8hJPMi$6Q
+add_user -c Warfarin -u Ceobe -p tsG2Do_cJLWYlS9_TV -n 刻俄柏 -m acknowledged@by.all -g 4
+login -u Ceobe -p tsG2Do_cJLWYlS9_TV
+query_profile -c Dobermann -u Conviction
+add_user -c I_am_the_admin -u Catapult -p VGleAwuOBbEvmVk -n 空爆 -m European.Powers@to.be -g 8
+login -u Catapult -p oPLTUTDDtZ42f
+logout -u Earthspirit
+query_profile -c Shaw -u Snowsant
+query_profile -c Specter -u Snowsant
+query_profile -c Shaw -u Haze
+query_profile -c Chen -u Ansel
+login -u Blaze -p JABjufxL!rQMCnY
+add_user -c Vigna -u Mousse -p FaC8EiO3MLCj -n 慕斯 -m itself.a.Power@II.It -g 4
+login -u Mousse -p FaC8EiO3MLCj
+add_user -c Steward -u Nightmare -p ig-LlADGE0BrR$X4MhTn -n 夜魔 -m is.high.time@that.Communists -g 4
+login -u Nightmare -p ig-LlADGE0BrR$X4MhTn
+query_profile -c Chen -u Nightmare
+query_profile -c Vigna -u Ansel
+login -u I_am_the_admin -p awsl
+add_user -c Plume -u Istina -p U_flT3EG6z$ -n 真理 -m should.openly@in.the -g 7
+login -u Istina -p U_flT3EG6z$
+add_user -c Steward -u NoirCorne -p NChaQbQfJ3tTHt -n 黑角 -m face.of.the@whole.world -g 4
+login -u NoirCorne -p NChaQbQfJ3tTHt
+query_profile -c Shaw -u Ansel
+login -u Shaw -p uaJmugBxooNDJqYU4e!
+add_user -c Nightmare -u Shining -p ayv_pVXCb8krk -n 闪灵 -m publish.their@views.their -g 1
+login -u Shining -p eZigVE862esoqlTHjMkv
+query_profile -c Specter -u Mousse
+add_user -c Hoshiguma -u Provence -p w8dw6bywGaqGsl -n 普罗旺斯 -m aims.their@tendencies.and -g 4
+login -u Provence -p w8dw6bywGaqGsl
+add_user -c NoirCorne -u Hellagur -p 7iIFuBFVIe$ -n 赫拉格 -m meet.this.nursery@tale.of -g 3
+login -u Hellagur -p 7iIFuBFVIe$
+query_profile -c Ansel -u Conviction
+add_user -c Steward -u Liskarm -p GuCPT!k-ralpz -n 雷蛇 -m the.Spectre@of.Communism -g 3
+login -u Liskarm -p GuCPT!k-ralpz
+query_profile -c Istina -u Haze
+add_user -c Haze -u Weedy -p baQZ1ZgUny9fqcsrsPe -n 温蒂 -m with.a.Manifesto@of.the -g 2
+login -u Weedy -p baQZ1ZgUny9fqcsrsPe
+add_user -c Estelle -u Skyfire -p E0TIrPo-wwuZ_ts -n 天火 -m party.itself@To.this -g 7
+login -u Skyfire -p E0TIrPo-wwuZ_ts
+add_user -c Weedy -u Courier -p bDgszEciHzUDXu -n 讯使 -m end.Communists@of.various -g 1
+login -u Courier -p bDgszEciHzUDXu
+add_user -c Warfarin -u Fang -p f!IifwoLFlhcxLN4GW5 -n 芬芬 -m nationalities@have.assembled -g 3
+login -u Fang -p XWJMykQ5oONX6izCzb7
+query_profile -c Vigna -u Conviction
+add_user -c Dobermann -u Rope -p kksBeiC717P3p -n 暗索 -m in.London.and@sketched.the -g 4
+login -u Rope -p kksBeiC717P3p
+add_user -c Haze -u Phantom -p swuRDUzOLS6J -n 傀影 -m following.Manifesto@to.be -g 2
+login -u Phantom -p LJhPy-51DVX!s5srAvgq
+query_profile -c Mousse -u Conviction
+query_profile -c Flamebringer -u Hellagur
+query_profile -c Istina -u Rope
+add_user -c Istina -u SilverAsh -p OQ4Sg-AY2FQ2kQtiu- -n 银灰 -m published.in@the.English -g 5
+login -u SilverAsh -p XHsPGCSg3t5Q1BNrC$
+modify_profile -c Steward -u Nightmare -g 4
+add_user -c Scavenger -u W -p YPruvz$ncZZ -n 达不溜 -m French.German@Italian.Flemish -g 2
+login -u W -p YPruvz$ncZZ
+add_user -c Rope -u Schwarz -p lYZjKjTR-40Jp -n 黑黑 -m and.Danish@languages.I -g 1
+login -u Schwarz -p lYZjKjTR-40Jp
+add_user -c I_am_the_admin -u Cuora -p zvP$57yofx5o9A -n 蛇屠箱 -m BOURGEOIS.AND@PROLETARIANS.The -g 7
+login -u Cuora -p zvP$57yofx5o9A
+add_user -c Warfarin -u Ambriel -p FqaMN8JD4qTXCgEFMVZW -n 安比尔 -m history.of@all.hitherto -g 3
+login -u Ambriel -p FqaMN8JD4qTXCgEFMVZW
+add_user -c Hellagur -u Frostleaf -p Cl-DDtCFkAno -n 霜叶 -m existing.societies@is.the -g 1
+login -u Frostleaf -p Cl-DDtCFkAno
+add_user -c Cuora -u Kroos -p bkfifUX_iW_8 -n 克洛丝 -m history.of@class.struggles -g 5
+login -u Kroos -p bkfifUX_iW_8
+add_user -c Cuora -u Ethan -p IPre814!6Vh -n 伊桑 -m Freeman.and@slave.patrician -g 6
+login -u Ethan -p IPre814!6Vh
+add_user -c Skyfire -u BluePoison -p LPcmXjAR4WuaC2F -n 蓝毒 -m and.plebeian@lord.and -g 5
+login -u BluePoison -p LPcmXjAR4WuaC2F
+query_profile -c Hellagur -u Phantom
+query_profile -c Chen -u Rope
+add_user -c I_am_the_admin -u Skadi -p _55BHyORiKU$xFSO -n 斯卡蒂 -m serf.guildmaster@and.journeyma -g 9
+login -u Skadi -p _55BHyORiKU$xFSO
+add_user -c Ansel -u Grani -p fCBev_S1ATxrTWHK4 -n 格拉尼 -m in.a.word.oppressor@and.oppres -g 1
+login -u Grani -p aKBGBn1!Ov
+add_user -c Estelle -u Saria -p aeuNyTnOlgBz -n 塞雷娅 -m stood.in.constant@opposition.t -g 6
+login -u Saria -p aeuNyTnOlgBz
+add_user -c W -u Bison -p qUEllx!znzc -n 拜松 -m one.another@carried.on -g 1
+login -u Bison -p qUEllx!znzc
+add_user -c Nightmare -u Aak -p -fv-eZC6ciu0pKCKORvS -n 阿阿 -m an.uninterrupted@now.hidden -g 1
+login -u Aak -p -fv-eZC6ciu0pKCKORvS
+logout -u Liskarm
+add_user -c NoirCorne -u Breeze -p F-gvkmDP12MxLqBd -n 微风 -m now.open.fight@a.fight -g 1
+login -u Breeze -p F-gvkmDP12MxLqBd
+modify_profile -c Ethan -u Conviction -p mqf0rdIFyRxHxMwmM -m that.each.time@ended.either
+add_user -c Mousse -u Siege -p ubDy2mIicv_g5H -n 推进之王 -m in.a.revolutionary@reconstitut -g 1
+login -u Siege -p ubDy2mIicv_g5H
+query_profile -c Cuora -u Ambriel
+query_profile -c Hoshiguma -u Conviction
+add_user -c Shaw -u Jessica -p 9!-ggfeqEA!QA5ALHKX -n 杰西卡 -m society.at@large.or -g 7
+login -u Jessica -p DlDokaJQj_oMSqp1
+query_profile -c Haze -u Grani
+query_profile -c Specter -u Mousse
+query_profile -c I_am_the_admin -u Ambriel
+query_profile -c Earthspirit -u Bison
+query_profile -c Shaw -u Hellagur
+query_profile -c Ansel -u Grani
+add_user -c Scavenger -u Nian -p fZlPY3FtoTo9H -n 年年 -m in.the.common@ruin.of -g 1
+login -u Nian -p fZlPY3FtoTo9H
+query_profile -c Haze -u Nian
+query_profile -c Skadi -u Courier
+query_profile -c Estelle -u Scavenger
+query_profile -c Skadi -u Snowsant
+add_user -c Ethan -u Greyy -p qx3H8O0iO08x3XNnLd -n 格雷伊 -m the.contending@classes.In -g 4
+login -u Greyy -p qx3H8O0iO08x3XNnLd
+login -u Astesia -p gXUQCn6uCZh6mQXH
+add_user -c Astesia -u Platinum -p h1Mfl6U7oXqMoP3FJGpO -n 白金 -m the.earlier@epochs.of -g 5
+login -u Platinum -p h1Mfl6U7oXqMoP3FJGpO
+query_profile -c Ethan -u W
+query_profile -c Istina -u Scavenger
+query_profile -c Vigna -u Snowsant
+add_user -c Scavenger -u Amiya -p vnb$xShu6gg3S- -n 阿米娅 -m history.we@find.almost -g 2
+login -u Amiya -p vnb$xShu6gg3S-
+add_user -c Kroos -u Sesa -p eRjOGRYXoR1EYLl -n 慑砂 -m everywhere@a.complicated -g 4
+login -u Sesa -p eRjOGRYXoR1EYLl
+login -u Provence -p w8dw6bywGaqGsl
+query_profile -c Nightmare -u Fang
+query_profile -c Hellagur -u Bison
+query_profile -c Saria -u Vigna
+add_user -c Dobermann -u Magallan -p kwmOmIW5MxJ0VR -n 麦哲伦 -m arrangement@of.society -g 2
+login -u Magallan -p kwmOmIW5MxJ0VR
+add_user -c Provence -u Sussurro -p WASZQ8CC5MgG -n 苏苏洛 -m into.various@orders.a -g 1
+login -u Sussurro -p ElTXDRJE2JRz3
+add_user -c Rope -u Sora -p I8bgiuG$FNzFyP4s8pl -n 空空 -m manifold.gradation@of.social -g 2
+login -u Sora -p r$Y9gBZpho0
+add_user -c Spot -u Vermeil -p FvY79z!DtIB_vfphImC -n 红云 -m rank.In.ancient@Rome.we -g 7
+login -u Vermeil -p FvY79z!DtIB_vfphImC
+add_user -c Snowsant -u WaaiFu -p Ph6QYkf0pH -n 槐琥 -m have.patricians@knights.plebei -g 1
+login -u WaaiFu -p Ph6QYkf0pH
+query_profile -c Spot -u Ceobe
+logout -u Steward
+add_user -c Kroos -u Ifrit -p qLrazG4tNCY67 -n 伊芙利特 -m slaves.in.the@Middle.Ages -g 3
+login -u Ifrit -p qLrazG4tNCY67
+modify_profile -c Mousse -u Haze -p z28N-4ttrQ -g 3
+login -u Warfarin -p 81AKngmdfYVUM
+add_user -c Platinum -u GreyThroat -p 4ZotxN$7L6p -n 灰喉 -m feudal.lords@vassals.guildmast -g 2
+login -u GreyThroat -p 4ZotxN$7L6p
+query_profile -c Plume -u Ambriel
+query_profile -c Provence -u Ambriel
+add_user -c GreyThroat -u Popukar -p bwmM-M0WgiOxwvgFRgl -n 泡普卡 -m journeymen@apprentices.serfs -g 1
+login -u Popukar -p bwmM-M0WgiOxwvgFRgl
+add_user -c Plume -u Bagpipe -p OCAkMBivQEXX6ew -n 风笛 -m in.almost.all@of.these -g 7
+login -u Bagpipe -p ic0U-aUc-VredSlvIF_u
+add_user -c Snowsant -u Zima -p 6tf4w02iXNU -n 凛冬 -m classes.again@subordinate.grad -g 1
+login -u Zima -p 6tf4w02iXNU
+modify_profile -c Skyfire -u Mousse -p yCojBnBafYd8B-1
+query_profile -c Shaw -u Sussurro
+add_user -c Platinum -u Deepcolor -p kq$DY7pJJgyB_Wm-S -n 深海色 -m The.modern@bourgeois.society -g 3
+login -u Deepcolor -p kq$DY7pJJgyB_Wm-S
+add_user -c Ethan -u Hung -p dK-tth-VPM30wBs1y -n 吽吽 -m that.has.sprouted@from.the -g 3
+login -u Hung -p dK-tth-VPM30wBs1y
+query_profile -c Spot -u Mousse
+query_profile -c I_am_the_admin -u NoirCorne
+query_profile -c Kroos -u Provence
+query_profile -c Deepcolor -u WaaiFu
+logout -u Breeze
+query_profile -c Warfarin -u Ifrit
+query_profile -c Vigna -u Sesa
+query_profile -c Cuora -u Mousse
+query_profile -c Istina -u Ambriel
+query_profile -c Scavenger -u Bison
+query_profile -c Vigna -u Zima
+query_profile -c Vermeil -u Liskarm
+add_user -c Saria -u Croissant -p mdp3Mgb61vZ -n 可颂 -m ruins.of.feudal@society.has -g 4
+login -u Croissant -p mdp3Mgb61vZ
+add_user -c Magallan -u FEater -p 52TaRyDGxaTm -n 食铁兽 -m not.done.away@with.class -g 1
+login -u FEater -p 52TaRyDGxaTm
+query_profile -c Scavenger -u Schwarz
+add_user -c Cuora -u Cliffheart -p KswDY55vZRfb -n 崖心 -m antagonisms@It.has -g 6
+login -u Cliffheart -p KswDY55vZRfb
+add_user -c Snowsant -u Eyjafjalla -p Qn_4ieIGSilFgBBI!nsw -n 艾雅法拉 -m but.established@new.classes -g 1
+login -u Eyjafjalla -p Qn_4ieIGSilFgBBI!nsw
+query_profile -c Vermeil -u Popukar
+add_user -c BluePoison -u Gummy -p 5v$z!6uh1m0 -n 古米 -m new.conditions@of.oppression -g 4
+login -u Gummy -p 5v$z!6uh1m0
+modify_profile -c Istina -u Greyy -p OrYibBhKf34kZC -n 格雷 -m new.forms.of@struggle.in -g 4
+query_profile -c I_am_the_admin -u Ambriel
+add_user -c Haze -u ProjeKTRed -p -a4FcmJvzWIPw9o -n 红红 -m place.of.the@old.ones -g 1
+login -u ProjeKTRed -p -a4FcmJvzWIPw9o
+add_user -c Skadi -u Durnar -p -4_IwRILoPBm -n 坚雷 -m Our.epoch.the@epoch.of -g 6
+login -u Durnar -p -4_IwRILoPBm
+query_profile -c Snowsant -u ProjeKTRed
+query_profile -c Greyy -u Magallan
+query_profile -c Scavenger -u Eyjafjalla
+query_profile -c Vigna -u NoirCorne
+modify_profile -c Vigna -u Ambriel -p l9x02JdT7UV0UQjRy -m the.bourgeoisie@possesses.howe -g 3
+query_profile -c Saria -u Greyy
+query_profile -c Cliffheart -u Frostleaf
+add_user -c Hung -u Purestream -p spAcyEBXRk -n 清流 -m this.distinctive@feature.it -g 2
+login -u Purestream -p spAcyEBXRk
+add_user -c Nightmare -u Silence -p nGoLas-OEsCq -n 赫默 -m has.simplified@the.class -g 2
+login -u Silence -p nGoLas-OEsCq
+modify_profile -c Shaw -u Haze -m antagonisms@Society.as
+add_user -c Kroos -u Midnight -p 8CC!YnHgcRqtMn$HhT -n 月见夜 -m a.whole.is@more.and -g 3
+login -u Midnight -p 8CC!YnHgcRqtMn$HhT
+query_profile -c Vigna -u Ifrit
+login -u Grani -p fCBev_S1ATxrTWHK4
+query_profile -c Astesia -u Gummy
+query_profile -c Chen -u Conviction
+query_profile -c Gummy -u Purestream
+query_profile -c Cliffheart -u Sora
+modify_profile -c Warfarin -u Courier -m more.splitting@up.into
+login -u Sora -p I8bgiuG$FNzFyP4s8pl
+add_user -c Silence -u Executor -p jAKbrgVI02zZdN -n 送葬人 -m two.great.hostile@camps.into -g 1
+login -u Executor -p jAKbrgVI02zZdN
+query_profile -c Platinum -u Scavenger
+query_profile -c Shaw -u FEater
+query_profile -c Kroos -u Sora
+query_profile -c Greyy -u Popukar
+add_user -c Mousse -u Orchid -p SQSBasp$Vr -n 梓兰 -m two.great.classes@directly.fac -g 1
+login -u Orchid -p SQSBasp$Vr
+add_user -c Nightmare -u Gavial -p FfmP!XYG8kRuR -n 嘉维尔 -m each.other@Bourgeoisie.and -g 1
+login -u Gavial -p FfmP!XYG8kRuR
+add_user -c W -u Durin -p o2vxqp-2oAM -n 杜林 -m Proletariat@From.the -g 1
+login -u Durin -p o2vxqp-2oAM
+login -u Breeze -p F-gvkmDP12MxLqBd
+query_profile -c Croissant -u Courier
+add_user -c Cliffheart -u Broca -p 74JLO3k7a7yfdLiE2 -n 布洛卡 -m serfs.of.the@Middle.Ages -g 4
+login -u Broca -p 74JLO3k7a7yfdLiE2
+query_profile -c Spot -u Broca
+logout -u Magallan
+login -u Steward -p p9Y_DCi-k_ntmorq
+query_profile -c Dobermann -u Fang
+query_profile -c Istina -u Gummy
+query_profile -c BluePoison -u Courier
+add_user -c Ceobe -u May -p pBEpoCd4f7 -n 梅梅 -m sprang.the@chartered.burghers -g 3
+login -u May -p gH9mI1wDcd5rvy9F
+query_profile -c Ansel -u Durin
+login -u Shining -p ayv_pVXCb8krk
+logout -u Amiya
+query_profile -c Provence -u Eyjafjalla
+query_profile -c Scavenger -u Nian
+query_profile -c Croissant -u Executor
+query_profile -c Hoshiguma -u Croissant
+login -u SilverAsh -p OQ4Sg-AY2FQ2kQtiu-
+query_profile -c Skyfire -u Gummy
+query_profile -c Sesa -u Zima
+add_user -c Hung -u Sideroca -p clfgOa_xLZ7npKivVjJg -n 铸铁 -m of.the.earliest@towns.From -g 2
+login -u Sideroca -p clfgOa_xLZ7npKivVjJg
+query_profile -c Kroos -u ProjeKTRed
+query_profile -c Scavenger -u Shining
+query_profile -c Vermeil -u Fang
+query_profile -c SilverAsh -u Mousse
+query_profile -c Estelle -u Conviction
+query_profile -c ProjeKTRed -u Hoshiguma
+query_profile -c Vermeil -u Ceobe
+query_profile -c Skadi -u Snowsant
+add_user -c Chen -u Beagle -p tb_i-W3iHik3HxjaoRm -n 米格鲁 -m these.burgesses@the.first -g 5
+login -u Beagle -p tb_i-W3iHik3HxjaoRm
+add_user -c Scavenger -u Myrtle -p 3fATQ5s7hjIkgOOTMhJ$ -n 桃金娘 -m elements.of@the.bourgeoisie -g 2
+login -u Myrtle -p 3fATQ5s7hjIkgOOTMhJ$
+query_profile -c Kroos -u Scavenger
+add_user -c Deepcolor -u Cutter -p Ipvb-Wm1Boi -n 刻刀 -m were.developed@The.discovery -g 1
+login -u Cutter -p Ipvb-Wm1Boi
+add_user -c Ceobe -u Mostima -p QD_J_ZdJAF0yNs -n 莫斯提马 -m of.America@the.rounding -g 1
+login -u Mostima -p QD_J_ZdJAF0yNs
+add_user -c Ethan -u Nearl -p TBDq77TFjC5d -n 临光 -m of.the.Cape@opened.up -g 5
+login -u Nearl -p TBDq77TFjC5d
+query_profile -c Snowsant -u Aak
+query_profile -c Nightmare -u Sideroca
+add_user -c Hung -u Savage -p mxiH0!Y_MwQZWG$!yaIA -n 暴行 -m fresh.ground@for.the -g 1
+login -u Savage -p mxiH0!Y_MwQZWG$!yaIA
+add_user -c Hellagur -u Bibeak -p AkHUGp9gxYE22yeSxVX -n 柏喙 -m rising.bourgeoisie@The.EastInd -g 1
+login -u Bibeak -p AkHUGp9gxYE22yeSxVX
+modify_profile -c Istina -u Broca -n 布洛 -g 4
+add_user -c Snowsant -u Franka -p mv9sRjFD!G3!GkdknRXw -n 芙兰卡 -m and.Chinese@markets.the -g 1
+login -u Franka -p mv9sRjFD!G3!GkdknRXw
+query_profile -c Ifrit -u Gavial
+logout -u Provence
+query_profile -c Vermeil -u Rope
+query_profile -c Skyfire -u Sora
+add_user -c Shaw -u Gitano -p m$g-Y!NrMiT-!C -n 远山 -m colonisation@of.America -g 7
+login -u Gitano -p m$g-Y!NrMiT-!C
+query_profile -c Kroos -u Durin
+query_profile -c Flamebringer -u Bison
+add_user -c Vermeil -u Gravel -p pVF6RdYKJiM93VD-$KS -n 砾砾 -m trade.with@the.colonies -g 4
+login -u Gravel -p pVF6RdYKJiM93VD-$KS
+modify_profile -c Cutter -u Hung -g 3
+query_profile -c Vermeil -u Bibeak
+add_user -c Estelle -u Pramanix -p 1KZfUNMFTM -n 初雪 -m the.increase@in.the -g 6
+login -u Pramanix -p 1KZfUNMFTM
+modify_profile -c Ethan -u GreyThroat -m means.of.exchange@and.in
+query_profile -c Cliffheart -u Eyjafjalla
+query_profile -c Broca -u Schwarz
+query_profile -c Kroos -u Courier
+query_profile -c Vigna -u Gravel
+modify_profile -c Haze -u Amiya -m commodities@generally.gave -g 2
+logout -u Hoshiguma
+query_profile -c Specter -u Deepcolor
+query_profile -c Skyfire -u Mousse
+modify_profile -c Nightmare -u Fang -p vIfh2sYAB91k -m to.commerce@to.navigation -g 3
+query_profile -c Hellagur -u Nian
+logout -u Ceobe
+query_profile -c Estelle -u Hung
+logout -u Saria
+logout -u Broca
+query_profile -c Croissant -u Hung
+add_user -c Greyy -u Meteor -p 0tjR4RagTTiPLJ2eW-xK -n 流星 -m to.industry@an.impulse -g 2
+login -u Meteor -p 4s7qL96ynzHD
+query_profile -c Vigna -u Sideroca
+query_profile -c Midnight -u Purestream
+query_profile -c Sesa -u Gavial
+query_profile -c Blaze -u Bison
+query_profile -c Cliffheart -u Sora
+add_user -c Midnight -u Utage -p G8BAyubK6BL1yC8PRqA -n 宴宴 -m never.before@known.and -g 2
+login -u Utage -p G8BAyubK6BL1yC8PRqA
+add_user -c Beagle -u Hibiscus -p bATjyVqdfA6bOfh_9 -n 芙蓉 -m thereby.to@the.revolutionary -g 2
+login -u Hibiscus -p bATjyVqdfA6bOfh_9
+query_profile -c Pramanix -u Sideroca
+query_profile -c Durnar -u Liskarm
+logout -u Hellagur
+query_profile -c SilverAsh -u Gummy
+logout -u Ethan
+query_profile -c BluePoison -u Rope
+add_user -c Warfarin -u Ptilopsis -p PA6iWdcXN$2 -n 白面鸮 -m element.in@the.tottering -g 3
+login -u Ptilopsis -p PA6iWdcXN$2
+logout -u Grani
+login -u Earthspirit -p 2H8CYpbdHf7
+query_profile -c SilverAsh -u Gummy
+query_profile -c Rope -u Ambriel
+query_profile -c Platinum -u Magallan
+query_profile -c Flamebringer -u Gravel
+query_profile -c Ptilopsis -u Eyjafjalla
+query_profile -c Skyfire -u Courier
+query_profile -c I_am_the_admin -u Siege
+query_profile -c Spot -u Savage
+query_profile -c Nearl -u Rope
+query_profile -c BluePoison -u Broca
+query_profile -c Spot -u Greyy
+query_profile -c Vermeil -u Frostleaf
+modify_profile -c Haze -u Schwarz -p QZZPnK3Khe_DLxtuCC -g 1
+login -u Ethan -p IPre814!6Vh
+query_profile -c Midnight -u Weedy
+login -u Spot -p Hz_M89zW-xEE
+logout -u SilverAsh
+add_user -c Snowsant -u Lava -p 3gdWQN6_s9LSx1h -n 炎熔 -m feudal.society@a.rapid -g 1
+login -u Lava -p 3gdWQN6_s9LSx1h
+query_profile -c Nightmare -u Scavenger
+modify_profile -c Beagle -u Snowsant -p K4EvBEQpxKhA -g 3
+query_profile -c Ethan -u Zima
+query_profile -c Ethan -u Gummy
+query_profile -c Skyfire -u Phantom
+modify_profile -c Istina -u Ceobe -p j0LNbEm0Ct6Eowm-oWb -m development@The.feudal
+query_profile -c Gummy -u Sussurro
+add_user -c Astesia -u Myrrh -p cUxdZwIzhBQZSUXhPr -n 末药 -m system.of.industry@under.which -g 4
+login -u Myrrh -p cUxdZwIzhBQZSUXhPr
+query_profile -c Astesia -u Ceobe
+query_profile -c Beagle -u Hellagur
+query_profile -c Spot -u Franka
+query_profile -c Spot -u Purestream
+add_user -c Kroos -u Reed -p Hnc9AgVL3miyHe4 -n 苇草 -m industrial@production.was -g 3
+login -u Reed -p Hnc9AgVL3miyHe4
+query_profile -c Cliffheart -u Gavial
+add_user -c Ptilopsis -u Angelina -p zRMcTZ96hOA$XE24IIZw -n 安洁莉娜 -m monopolised@by.closed -g 1
+login -u Angelina -p zRMcTZ96hOA$XE24IIZw
+query_profile -c Beagle -u NoirCorne
+query_profile -c Croissant -u Deepcolor
+query_profile -c I_am_the_admin -u Popukar
+add_user -c Hung -u Mayer -p 3aAXA!9gZ-HmdK -n 梅尔 -m guilds.now@no.longer -g 2
+login -u Mayer -p 3aAXA!9gZ-HmdK
+query_profile -c Ethan -u Gravel
+query_profile -c Vermeil -u Gravel
+logout -u Ambriel
+add_user -c Earthspirit -u Yato -p -Bw1h!DAhw -n 夜刀 -m sufficed.for@the.growing -g 4
+login -u Yato -p -Bw1h!DAhw
+query_profile -c Beagle -u Greyy
+logout -u Utage
+query_profile -c Chen -u Ceobe
+query_profile -c Skadi -u Utage
+query_profile -c Ifrit -u Sideroca
+query_profile -c Ptilopsis -u Silence
+query_profile -c Durnar -u Greyy
+query_profile -c Estelle -u WaaiFu
+query_profile -c Conviction -u Blaze
+modify_profile -c Weedy -u Schwarz -p y6nMUSDxQSbpo_M2$2 -m wants.of.the@new.markets -g 1
+add_user -c Cuora -u Ceylon -p jcoqOeGVx6HkL -n 锡兰 -m The.manufacturing@system.took -g 4
+login -u Ceylon -p jcoqOeGVx6HkL
+modify_profile -c Haze -u Eyjafjalla -p EXvPFxjjhnB9gc! -n 艾雅法 -m its.place.The@guildmasters.wer -g 1
+add_user -c Cliffheart -u Matterhorn -p bI0DzfMmJ6 -n 角峰 -m pushed.on.one@side.by -g 4
+login -u Matterhorn -p bI0DzfMmJ6
+query_profile -c Rope -u Durin
+query_profile -c Gitano -u Weedy
+query_profile -c Cuora -u Mousse
+query_profile -c Hibiscus -u Eyjafjalla
+query_profile -c Pramanix -u W
+query_profile -c Myrrh -u Hellagur
+query_profile -c Flamebringer -u Ptilopsis
+modify_profile -c Plume -u Lava
+query_profile -c Vigna -u Aak
+modify_profile -c Skadi -u Scavenger -n 清道 -m the.manufacturing@middle.class -g 3
+query_profile -c Gitano -u Sideroca
+query_profile -c Midnight -u Bison
+logout -u Cuora
+query_profile -c Hung -u Bibeak
+query_profile -c NoirCorne -u Reed
+query_profile -c Earthspirit -u Purestream
+add_user -c NoirCorne -u Glaucus -p F4aOL$RLrC_L -n 格劳克斯 -m division.of@labour.between -g 3
+login -u Glaucus -p F4aOL$RLrC_L
+login -u Ceobe -p j0LNbEm0Ct6Eowm-oWb
+query_profile -c Vermeil -u Silence
+query_profile -c Istina -u Purestream
+query_profile -c Dobermann -u Meteor
+query_profile -c Durnar -u Aak
+login -u Matterhorn -p bI0DzfMmJ6
+query_profile -c Gravel -u Midnight
+query_profile -c Cliffheart -u Silence
+add_user -c Estelle -u Meteorite -p mxfFUZdRDpf -n 陨星 -m the.different@corporate.guilds -g 6
+login -u Meteorite -p mxfFUZdRDpf
+login -u Jessica -p 9!-ggfeqEA!QA5ALHKX
+query_profile -c Platinum -u Savage
+modify_profile -c Istina -u Ceobe -m vanished.in@the.face -g 4
+modify_profile -c Chen -u Sussurro -p l67KXr0aO7khD0XlB -m of.division@of.labour
+query_profile -c Ifrit -u Siege
+query_profile -c Myrtle -u Frostleaf
+add_user -c Estelle -u Melantha -p IWuKr7$Kh4jQtS -n 玫兰莎 -m in.each.single@workshop.Meanti -g 6
+login -u Melantha -p IWuKr7$Kh4jQtS
+query_profile -c Sideroca -u Orchid
+query_profile -c Rope -u Frostleaf
+query_profile -c Meteorite -u Ptilopsis
+query_profile -c Cliffheart -u Breeze
+add_user -c Istina -u Swire -p ssGFz1mBo2G5i -n 诗怀雅 -m the.markets@kept.ever -g 5
+login -u Swire -p ssGFz1mBo2G5i
+query_profile -c Myrrh -u Hellagur
+query_profile -c Pramanix -u Greyy
+query_profile -c Myrtle -u Schwarz
+query_profile -c Dobermann -u Magallan
+query_profile -c Ceobe -u FEater
+query_profile -c Flamebringer -u NoirCorne
+query_profile -c Chen -u Gravel
+query_profile -c Jessica -u Ceylon
+query_profile -c Cliffheart -u Croissant
+add_user -c Gravel -u Exusiai -p 6C34RSKRsFQ4o4HPa -n 能天使 -m growing.the@demand.ever -g 1
+login -u Exusiai -p 6C34RSKRsFQ4o4HPa
+query_profile -c Ptilopsis -u Magallan
+query_profile -c Sesa -u Magallan
+query_profile -c Platinum -u Amiya
+query_profile -c Spot -u Conviction
+query_profile -c Pramanix -u Haze
+query_profile -c Ifrit -u Bison
+query_profile -c Myrtle -u Executor
+query_profile -c Jessica -u Matterhorn
+query_profile -c GreyThroat -u Angelina
+query_profile -c Scavenger -u Angelina
+query_profile -c Mousse -u Exusiai
+query_profile -c BluePoison -u WaaiFu
+query_profile -c Glaucus -u Purestream
+query_profile -c Dobermann -u Weedy
+query_profile -c Nearl -u Matterhorn
+query_profile -c Earthspirit -u Shining
+query_profile -c Dobermann -u Savage
+query_profile -c Beagle -u Croissant
+logout -u Popukar
+login -u Ethan -p IPre814!6Vh
+add_user -c Midnight -u Shamare -p VYOGcewjUD8Xck$T -n 巫恋 -m rising.Even@manufacture.no -g 2
+login -u Shamare -p VYOGcewjUD8Xck$T
+query_profile -c GreyThroat -u Weedy
+query_profile -c Hoshiguma -u Nightmare
+query_profile -c Gitano -u Broca
+query_profile -c Dobermann -u Hibiscus
+query_profile -c Scavenger -u Grani
+query_profile -c Sideroca -u Schwarz
+logout -u FEater
+query_profile -c Earthspirit -u Reed
+query_profile -c I_am_the_admin -u Sesa
+query_profile -c Haze -u Lava
+modify_profile -c Nightmare -u Blaze
+query_profile -c I_am_the_admin -u Durin
+query_profile -c Beagle -u Provence
+add_user -c Pramanix -u Beehunter -p HlY5oM571BCUf25 -n 猎蜂 -m longer.sufficed@Thereupon.stea -g 4
+login -u Beehunter -p HlY5oM571BCUf25
+query_profile -c Mousse -u Midnight
+query_profile -c Croissant -u Hung
+query_profile -c Hung -u Orchid
+query_profile -c Cliffheart -u Silence
+query_profile -c Warfarin -u Rope
+query_profile -c Scavenger -u Shining
+login -u Ifrit -p r3W7EIrkMpnceT
+query_profile -c Greyy -u Bibeak
+query_profile -c Mousse -u Ambriel
+query_profile -c Meteorite -u GreyThroat
+query_profile -c Ansel -u Haze
+logout -u Vermeil
+query_profile -c Flamebringer -u Frostleaf
+query_profile -c Specter -u Phantom
+query_profile -c BluePoison -u Franka
+query_profile -c BluePoison -u Greyy
+query_profile -c Chen -u Snowsant
+query_profile -c Ceylon -u Ambriel
+query_profile -c Yato -u Savage
+query_profile -c Warfarin -u Meteor
+logout -u Sora
+query_profile -c Ethan -u Ceylon
+query_profile -c Istina -u FEater
+query_profile -c Beagle -u Siege
+add_user -c Nightmare -u Vulcan -p 3-4RMd1Mj4iM$JRCJi -n 火神 -m and.machinery@revolutionised.i -g 3
+login -u Vulcan -p 3-4RMd1Mj4iM$JRCJi
+query_profile -c Midnight -u Sora
+query_profile -c Glaucus -u Hibiscus
+modify_profile -c Reed -u Mayer -p Rih!qe7niixUawwi2g -m production@The.place
+add_user -c Platinum -u Lappland -p !6-WqKTwRZz -n 拉普兰德 -m of.manufacture@was.taken -g 3
+login -u Lappland -p !6-WqKTwRZz
+query_profile -c Shaw -u Orchid
+modify_profile -c Skyfire -u NoirCorne
+query_profile -c Ifrit -u Nian
+login -u Hellagur -p $slyMxzC$gaTyRhp5Kp
+query_profile -c Meteorite -u Beehunter
+query_profile -c Nearl -u Eyjafjalla
+query_profile -c Dobermann -u Sussurro
+query_profile -c Swire -u Myrrh
+query_profile -c Warfarin -u Grani
+modify_profile -c Ceylon -u Utage -g 2
+modify_profile -c Deepcolor -u Orchid -p 3sr!K!W7uHfad -m by.the.giant@Modern.Industry -g 1
+query_profile -c Beagle -u Provence
+query_profile -c Rope -u W
+query_profile -c NoirCorne -u Snowsant
+query_profile -c Skadi -u Rope
+query_profile -c Sesa -u Ambriel
+logout -u Purestream
+query_profile -c BluePoison -u Bibeak
+modify_profile -c Skadi -u Franka -n 芙兰 -g 1
+query_profile -c Snowsant -u Zima
+query_profile -c Skyfire -u Shamare
+query_profile -c Astesia -u Ansel
+query_profile -c Nightmare -u Hung
+modify_profile -c Ceobe -u Breeze -p TQjHT6L6IAlSLBZCww -m the.place.of@the.industrial
+query_profile -c Earthspirit -u Mostima
+query_profile -c Greyy -u Franka
+query_profile -c Lappland -u Shamare
+add_user -c Midnight -u Matoimaru -p -NAITiIYWqFHjh -n 缠丸 -m middle.class@by.industrial -g 2
+login -u Matoimaru -p -NAITiIYWqFHjh
+modify_profile -c BluePoison -u Savage -g 1
+query_profile -c Shaw -u Midnight
+query_profile -c I_am_the_admin -u Grani
+query_profile -c Glaucus -u Mostima
+modify_profile -c Vigna -u Scavenger -m millionaires@the.leaders
+logout -u Exusiai
+query_profile -c Deepcolor -u Eyjafjalla
+query_profile -c Glaucus -u Shamare
+login -u Grani -p fCBev_S1ATxrTWHK4
+query_profile -c Jessica -u NoirCorne
+query_profile -c Plume -u Executor
+logout -u Glaucus
+logout -u BluePoison
+query_profile -c Snowsant -u Utage
+query_profile -c Sesa -u Eyjafjalla
+query_profile -c Matterhorn -u Nian
+query_profile -c Earthspirit -u Mousse
+query_profile -c Beagle -u Utage
+query_profile -c Skyfire -u Utage
+query_profile -c Ifrit -u Popukar
+query_profile -c Meteorite -u Durin
+query_profile -c Myrrh -u Frostleaf
+query_profile -c I_am_the_admin -u Gummy
+query_profile -c Swire -u Gravel
+logout -u NoirCorne
+query_profile -c Beagle -u Mayer
+query_profile -c Rope -u Vulcan
+query_profile -c Spot -u Shamare
+query_profile -c Nearl -u W
+modify_profile -c Matterhorn -u Franka -p xRmXn1z0hSGhVO -g 1
+add_train -i LeavesofGrass -n 13 -m 28660 -s 北京市|重庆市南川市|吉林省图们市|浙江省瑞安市|福建省莆田市|山东省栖霞市|福建省漳州市|河北省晋州市|广东省罗定市|四川省德阳市|天津市|广东省江门市|河北省石家庄市 -p 236|3790|4547|3102|4803|738|2007|256|1567|1607|359|3041 -x 13:47 -t 134|33|193|91|159|92|197|45|166|27|79|55 -o 5|3|9|8|10|9|5|8|10|4|10 -d 07-12|08-16 -y Z
+release_train -i LeavesofGrass
+add_train -i INSCRIPTIONS -n 14 -m 70652 -s 北京市|江西省南昌市|陕西省延安市|河北省衡水市|吉林省龙井市|湖南省韶山市|安徽省桐城市|辽宁省沈阳市|陕西省华阴市|陕西省渭南市|河南省义马市|福建省永安市|江苏省新沂市|浙江省永康市 -p 1039|2476|1257|3647|3072|3893|4851|3811|3715|1152|1422|930|1119 -x 19:43 -t 132|91|116|36|27|68|43|179|165|142|69|201|204 -o 7|6|9|9|9|4|5|4|7|8|6|3 -d 06-19|07-24 -y Q
+release_train -i INSCRIPTIONS
+add_train -i TOFOREIGNLANDS -n 12 -m 92416 -s 湖北省黄石市|安徽省滁州市|江西省乐平市|河南省鹤壁市|四川省都江堰市|贵州省贵阳市|北京市|福建省建阳市|江西省上饶市|广东省清远市|河北省任丘市|四川省峨眉山市 -p 214|3139|1892|4712|4937|1843|3057|2796|186|1322|199 -x 01:26 -t 215|20|146|66|30|129|30|209|104|206|111 -o 10|9|10|9|4|9|5|3|8|8 -d 06-14|08-21 -y O
+release_train -i TOFOREIGNLANDS
+add_train -i IHEARDthatyouask -n 14 -m 66633 -s 贵州省福泉市|山东省诸城市|湖北省恩施市|湖南省湘潭市|广东省南雄市|辽宁省辽阳市|河南省邓州市|河南省辉县市|吉林省龙井市|广东省恩平市|福建省龙岩市|浙江省台州市|黑龙江省海林市|江苏省太仓市 -p 1841|1172|552|2100|480|1786|2302|2794|1870|2868|4973|3331|4061 -x 22:30 -t 141|169|59|38|154|114|69|150|141|82|107|51|145 -o 3|3|5|6|10|6|7|7|3|8|7|9 -d 06-26|08-23 -y R
+release_train -i IHEARDthatyouask
+add_train -i puzzletheNewWorld -n 4 -m 63242 -s 北京市|广西梧州市|浙江省杭州市|山东省淄博市 -p 2594|609|2519 -x 07:37 -t 440|267|555 -o 3|3 -d 07-14|08-29 -y M
+release_train -i puzzletheNewWorld
+add_train -i AndtodefineAmeric -n 9 -m 63369 -s 辽宁省辽阳市|贵州省安顺市|黑龙江省双城市|山东省即墨市|甘肃省兰州市|天津市|云南省昆明市|山西省运城市|湖南省冷水江市 -p 1555|4483|860|2411|2503|4085|480|2386 -x 06:45 -t 303|60|92|327|152|73|120|219 -o 7|7|3|8|10|9|3 -d 06-05|08-24 -y Y
+release_train -i AndtodefineAmeric
+add_train -i ThereforeIsendyou -n 17 -m 60364 -s 山东省莱西市|广西岑溪市|江苏省连云港市|山西省朔州市|新疆喀什市|江苏省海门市|贵州省贵阳市|广东省英德市|江西省宜春市|湖北省钟祥市|广东省南海市|广东省鹤山市|吉林省四平市|辽宁省沈阳市|黑龙江省铁力市|辽宁省庄河市|湖南省吉首市 -p 1244|1894|1259|4346|2433|4898|3073|4935|2636|2445|4497|2119|1147|432|1253|4906 -x 15:31 -t 140|98|82|121|109|96|68|54|51|40|165|67|105|39|109|142 -o 10|10|8|3|9|3|4|6|3|7|10|6|10|6|4 -d 06-05|08-12 -y A
+release_train -i ThereforeIsendyou
+add_train -i whatyouwanted -n 18 -m 77031 -s 山东省胶南市|内蒙集宁市|北京市|河北省鹿泉市|江苏省泰州市|湖南省资兴市|吉林省舒兰市|山东省泰安市|广东省雷州市|湖北省枝江市|江苏省句容市|黑龙江省七台河市|黑龙江省讷河市|陕西省宝鸡市|湖南省常德市|江苏省无锡市|辽宁省沈阳市|浙江省余姚市 -p 1856|360|1073|1390|991|3388|434|4454|1003|456|2566|655|199|4816|4499|2072|692 -x 11:10 -t 94|51|79|69|35|143|61|62|33|107|66|132|94|101|158|35|64 -o 5|3|5|3|3|4|5|9|10|4|7|3|10|4|9|5 -d 06-21|07-26 -y N
+release_train -i whatyouwanted
+add_train -i TOTHEEOLDCAUSE -n 10 -m 96526 -s 陕西省华阴市|黑龙江省北安市|吉林省长春市|湖北省广水市|江西省吉安市|河北省冀州市|福建省南平市|河南省巩义市|广东省阳春市|山西省孝义市 -p 3573|1078|3088|1066|1934|4587|3673|3865|3668 -x 18:38 -t 73|198|221|191|74|113|275|151|219 -o 8|10|7|8|4|10|9|4 -d 06-22|07-23 -y Y
+release_train -i TOTHEEOLDCAUSE
+add_train -i TOtheeoldcause -n 12 -m 76748 -s 吉林省蛟河市|云南省昆明市|北京市|浙江省永康市|云南省开远市|吉林省公主岭市|湖北省老河口市|河南省登封市|河南省南阳市|江苏省昆山市|河南省新郑市|辽宁省本溪市 -p 549|625|205|3361|2151|3155|4843|1923|1194|237|3899 -x 04:07 -t 99|230|104|84|245|203|169|214|90|164|156 -o 9|6|4|3|10|9|8|10|3|9 -d 06-13|08-06 -y W
+release_train -i TOtheeoldcause
+buy_ticket -u Franka -i TOFOREIGNLANDS -d 07-18 -n 3336 -f 福建省建阳市 -t 江西省上饶市 -q true
+buy_ticket -u Franka -i INSCRIPTIONS -d 06-26 -n 13643 -f 陕西省延安市 -t 浙江省永康市 -q true
+query_ticket -s 北京市 -t 广西梧州市 -d 08-06 -p cost
+buy_ticket -u Hung -i INSCRIPTIONS -d 07-01 -n 16363 -f 河北省衡水市 -t 湖南省韶山市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 07-18 -n 3941 -f 北京市 -t 四川省德阳市 -q true
+query_ticket -s 湖南省韶山市 -t 安徽省桐城市 -d 06-29 -p time
+query_ticket -s 黑龙江省双城市 -t 山西省运城市 -d 06-17 -p cost
+buy_ticket -u Platinum -i IHEARDthatyouask -d 07-05 -n 4509 -f 贵州省福泉市 -t 河南省邓州市
+query_ticket -s 辽宁省辽阳市 -t 湖南省冷水江市 -d 08-18 -p time
+buy_ticket -u Gummy -i LeavesofGrass -d 08-06 -n 627 -f 四川省德阳市 -t 河北省石家庄市 -q true
+query_ticket -s 云南省开远市 -t 河南省登封市 -d 07-22 -p time
+query_ticket -s 辽宁省辽阳市 -t 湖南省冷水江市 -d 07-25 -p time
+query_order -u Specter
+buy_ticket -u Grani -i LeavesofGrass -d 08-09 -n 967 -f 重庆市南川市 -t 浙江省瑞安市 -q true
+query_ticket -s 江西省吉安市 -t 河南省巩义市 -d 06-25 -p time
+buy_ticket -u Durnar -i ThereforeIsendyou -d 07-15 -n 7950 -f 广西岑溪市 -t 广东省英德市 -q true
+query_ticket -s 福建省莆田市 -t 河北省石家庄市 -d 07-15 -p time
+query_ticket -s 黑龙江省北安市 -t 广东省阳春市 -d 07-14 -p time
+buy_ticket -u Specter -i LeavesofGrass -d 07-13 -n 2749 -f 吉林省图们市 -t 福建省漳州市
+query_ticket -s 山东省诸城市 -t 黑龙江省海林市 -d 07-16 -p time
+query_ticket -s 山东省栖霞市 -t 福建省漳州市 -d 08-10 -p cost
+buy_ticket -u Sideroca -i LeavesofGrass -d 08-13 -n 1019 -f 浙江省瑞安市 -t 河北省晋州市 -q true
+buy_ticket -u Aak -i LeavesofGrass -d 07-18 -n 1825 -f 吉林省图们市 -t 福建省莆田市
+query_order -u Haze
+query_ticket -s 山东省即墨市 -t 湖南省冷水江市 -d 07-19 -p time
+query_ticket -s 北京市 -t 天津市 -d 08-05 -p time
+buy_ticket -u Croissant -i LeavesofGrass -d 08-04 -n 4934 -f 重庆市南川市 -t 四川省德阳市 -q true
+query_ticket -s 广西岑溪市 -t 新疆喀什市 -d 07-08 -p cost
+query_ticket -s 黑龙江省双城市 -t 山西省运城市 -d 07-13 -p time
+query_ticket -s 陕西省延安市 -t 湖南省韶山市 -d 07-21 -p time
+buy_ticket -u Reed -i INSCRIPTIONS -d 07-11 -n 15805 -f 湖南省韶山市 -t 浙江省永康市 -q true
+query_ticket -s 吉林省公主岭市 -t 辽宁省本溪市 -d 08-04 -p time
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 07-15 -p time
+query_ticket -s 江西省南昌市 -t 湖南省韶山市 -d 07-02 -p cost
+query_ticket -s 辽宁省沈阳市 -t 福建省永安市 -d 07-23 -p time
+buy_ticket -u Yato -i IHEARDthatyouask -d 07-11 -n 10483 -f 湖北省恩施市 -t 河南省邓州市 -q true
+buy_ticket -u Shaw -i LeavesofGrass -d 07-16 -n 710 -f 重庆市南川市 -t 福建省莆田市
+query_ticket -s 湖北省广水市 -t 广东省阳春市 -d 07-10 -p time
+query_ticket -s 河北省鹿泉市 -t 黑龙江省七台河市 -d 06-21 -p time
+buy_ticket -u Platinum -i IHEARDthatyouask -d 07-02 -n 13061 -f 贵州省福泉市 -t 浙江省台州市
+buy_ticket -u Deepcolor -i LeavesofGrass -d 08-12 -n 2166 -f 山东省栖霞市 -t 福建省漳州市 -q true
+buy_ticket -u Bibeak -i LeavesofGrass -d 07-14 -n 3039 -f 广东省罗定市 -t 四川省德阳市 -q true
+query_order -u Gravel
+buy_ticket -u Jessica -i puzzletheNewWorld -d 08-29 -n 15676 -f 广西梧州市 -t 山东省淄博市 -q true
+buy_ticket -u Gitano -i TOTHEEOLDCAUSE -d 06-23 -n 5093 -f 黑龙江省北安市 -t 河南省巩义市 -q false
+query_ticket -s 黑龙江省双城市 -t 天津市 -d 07-19 -p cost
+query_ticket -s 吉林省舒兰市 -t 黑龙江省七台河市 -d 07-19 -p time
+buy_ticket -u Snowsant -i LeavesofGrass -d 07-24 -n 2165 -f 山东省栖霞市 -t 广东省罗定市 -q true
+buy_ticket -u Hung -i LeavesofGrass -d 08-07 -n 3108 -f 山东省栖霞市 -t 河北省石家庄市 -q true
+query_ticket -s 福建省莆田市 -t 河北省石家庄市 -d 08-03 -p cost
+query_ticket -s 辽宁省辽阳市 -t 广东省恩平市 -d 08-06 -p cost
+buy_ticket -u Gitano -i INSCRIPTIONS -d 07-02 -n 15397 -f 吉林省龙井市 -t 浙江省永康市 -q true
+query_ticket -s 黑龙江省北安市 -t 河南省巩义市 -d 07-22 -p cost
+query_ticket -s 福建省建阳市 -t 四川省峨眉山市 -d 07-28 -p time
+buy_ticket -u WaaiFu -i INSCRIPTIONS -d 07-02 -n 2124 -f 河北省衡水市 -t 安徽省桐城市 -q false
+refund_ticket -u Snowsant -n 1
+buy_ticket -u Zima -i LeavesofGrass -d 07-24 -n 2261 -f 浙江省瑞安市 -t 福建省莆田市 -q false
+query_ticket -s 江西省宜春市 -t 湖南省吉首市 -d 06-20 -p cost
+buy_ticket -u Silence -i INSCRIPTIONS -d 07-19 -n 6727 -f 陕西省延安市 -t 湖南省韶山市 -q true
+query_ticket -s 天津市 -t 山西省运城市 -d 06-28 -p time
+query_ticket -s 北京市 -t 浙江省瑞安市 -d 08-11 -p time
+query_ticket -s 福建省永安市 -t 浙江省永康市 -d 07-04 -p cost
+query_ticket -s 北京市 -t 江苏省泰州市 -d 07-09 -p time
+buy_ticket -u Orchid -i LeavesofGrass -d 08-10 -n 2085 -f 福建省莆田市 -t 广东省罗定市
+buy_ticket -u Skyfire -i LeavesofGrass -d 08-15 -n 2800 -f 重庆市南川市 -t 山东省栖霞市 -q true
+refund_ticket -u Grani -n 1
+query_ticket -s 河北省晋州市 -t 广东省罗定市 -d 07-14 -p time
+query_ticket -s 吉林省公主岭市 -t 湖北省老河口市 -d 07-06 -p time
+query_order -u Courier
+query_order -u Skadi
+query_ticket -s 重庆市南川市 -t 广东省罗定市 -d 07-31 -p cost
+query_ticket -s 湖北省恩施市 -t 辽宁省辽阳市 -d 07-15 -p time
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 07-17 -p time
+buy_ticket -u Gravel -i TOFOREIGNLANDS -d 07-27 -n 4285 -f 贵州省贵阳市 -t 广东省清远市 -q true
+query_ticket -s 辽宁省沈阳市 -t 浙江省余姚市 -d 07-20 -p cost
+buy_ticket -u Ceylon -i LeavesofGrass -d 08-06 -n 2241 -f 吉林省图们市 -t 广东省罗定市 -q true
+buy_ticket -u Orchid -i INSCRIPTIONS -d 06-24 -n 13883 -f 江西省南昌市 -t 浙江省永康市 -q true
+query_ticket -s 甘肃省兰州市 -t 山西省运城市 -d 06-30 -p time
+query_ticket -s 江苏省海门市 -t 广东省鹤山市 -d 07-04 -p time
+buy_ticket -u Flamebringer -i LeavesofGrass -d 07-31 -n 6119 -f 福建省莆田市 -t 福建省漳州市 -q false
+query_ticket -s 北京市 -t 云南省开远市 -d 07-13 -p cost
+buy_ticket -u Mousse -i LeavesofGrass -d 08-06 -n 2994 -f 重庆市南川市 -t 福建省莆田市 -q true
+query_ticket -s 黑龙江省七台河市 -t 江苏省无锡市 -d 07-11 -p cost
+buy_ticket -u WaaiFu -i INSCRIPTIONS -d 07-10 -n 3912 -f 北京市 -t 陕西省延安市 -q true
+buy_ticket -u Spot -i LeavesofGrass -d 07-18 -n 5885 -f 吉林省图们市 -t 浙江省瑞安市
+buy_ticket -u Executor -i TOFOREIGNLANDS -d 06-14 -n 3411 -f 安徽省滁州市 -t 福建省建阳市 -q true
+query_ticket -s 湖北省恩施市 -t 福建省龙岩市 -d 08-06 -p time
+buy_ticket -u Hibiscus -i INSCRIPTIONS -d 06-23 -n 4712 -f 陕西省延安市 -t 陕西省渭南市 -q true
+buy_ticket -u Platinum -i AndtodefineAmeric -d 08-19 -n 10823 -f 山东省即墨市 -t 湖南省冷水江市
+buy_ticket -u Eyjafjalla -i INSCRIPTIONS -d 07-23 -n 5640 -f 北京市 -t 安徽省桐城市 -q true
+query_ticket -s 河北省衡水市 -t 陕西省华阴市 -d 06-23 -p cost
+buy_ticket -u Mayer -i LeavesofGrass -d 08-15 -n 5027 -f 四川省德阳市 -t 广东省江门市 -q true
+query_ticket -s 河南省邓州市 -t 浙江省台州市 -d 06-29 -p time
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-23 -p cost
+buy_ticket -u Melantha -i LeavesofGrass -d 07-20 -n 6808 -f 福建省莆田市 -t 广东省江门市 -q true
+buy_ticket -u Durnar -i puzzletheNewWorld -d 08-19 -n 14536 -f 北京市 -t 广西梧州市
+query_order -u Flamebringer
+buy_ticket -u Hung -i LeavesofGrass -d 08-01 -n 3724 -f 山东省栖霞市 -t 四川省德阳市 -q true
+buy_ticket -u Hung -i INSCRIPTIONS -d 07-06 -n 2452 -f 北京市 -t 安徽省桐城市 -q true
+buy_ticket -u Cliffheart -i LeavesofGrass -d 07-17 -n 7154 -f 河北省晋州市 -t 四川省德阳市 -q true
+buy_ticket -u Ptilopsis -i LeavesofGrass -d 08-11 -n 1128 -f 吉林省图们市 -t 天津市 -q true
+buy_ticket -u Blaze -i LeavesofGrass -d 07-13 -n 2550 -f 重庆市南川市 -t 福建省莆田市 -q false
+buy_ticket -u Frostleaf -i LeavesofGrass -d 07-23 -n 148 -f 福建省莆田市 -t 河北省晋州市 -q true
+query_order -u Haze
+query_order -u Grani
+buy_ticket -u Savage -i INSCRIPTIONS -d 07-01 -n 13264 -f 湖南省韶山市 -t 辽宁省沈阳市 -q true
+query_ticket -s 江苏省新沂市 -t 浙江省永康市 -d 07-14 -p time
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-11 -p cost
+query_ticket -s 吉林省长春市 -t 河北省冀州市 -d 07-06 -p time
+buy_ticket -u Shaw -i LeavesofGrass -d 07-16 -n 1871 -f 河北省晋州市 -t 天津市 -q true
+buy_ticket -u Myrtle -i INSCRIPTIONS -d 06-24 -n 17062 -f 陕西省华阴市 -t 河南省义马市 -q true
+buy_ticket -u Weedy -i TOTHEEOLDCAUSE -d 07-22 -n 2360 -f 河北省冀州市 -t 河南省巩义市 -q true
+buy_ticket -u Ptilopsis -i LeavesofGrass -d 07-25 -n 458 -f 浙江省瑞安市 -t 广东省罗定市 -q false
+query_ticket -s 河南省登封市 -t 河南省南阳市 -d 07-04 -p time
+query_ticket -s 江苏省海门市 -t 黑龙江省铁力市 -d 06-13 -p cost
+buy_ticket -u Myrrh -i LeavesofGrass -d 07-22 -n 3355 -f 福建省莆田市 -t 河北省晋州市 -q true
+query_ticket -s 山东省栖霞市 -t 广东省江门市 -d 07-14 -p time
+buy_ticket -u Weedy -i INSCRIPTIONS -d 07-09 -n 8332 -f 江西省南昌市 -t 吉林省龙井市
+query_ticket -s 黑龙江省双城市 -t 山东省即墨市 -d 06-06 -p time
+query_ticket -s 黑龙江省北安市 -t 河南省巩义市 -d 07-11 -p time
+query_ticket -s 山西省朔州市 -t 贵州省贵阳市 -d 06-17 -p cost
+query_ticket -s 湖南省韶山市 -t 安徽省桐城市 -d 06-25 -p time
+buy_ticket -u Istina -i LeavesofGrass -d 08-14 -n 1679 -f 北京市 -t 重庆市南川市 -q true
+query_ticket -s 安徽省滁州市 -t 四川省峨眉山市 -d 08-15 -p cost
+query_ticket -s 广东省雷州市 -t 浙江省余姚市 -d 07-01 -p cost
+query_ticket -s 山东省莱西市 -t 广东省英德市 -d 06-27 -p cost
+buy_ticket -u Ansel -i whatyouwanted -d 07-02 -n 2216 -f 内蒙集宁市 -t 江苏省泰州市 -q true
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-18 -p cost
+query_ticket -s 浙江省永康市 -t 湖北省老河口市 -d 08-05 -p cost
+buy_ticket -u Skadi -i LeavesofGrass -d 08-16 -n 3729 -f 河北省晋州市 -t 广东省罗定市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 08-08 -n 1424 -f 福建省漳州市 -t 广东省江门市 -q true
+buy_ticket -u Aak -i LeavesofGrass -d 08-12 -n 188 -f 福建省莆田市 -t 山东省栖霞市 -q false
+buy_ticket -u Istina -i INSCRIPTIONS -d 07-02 -n 16457 -f 陕西省延安市 -t 吉林省龙井市 -q true
+buy_ticket -u Vigna -i INSCRIPTIONS -d 07-15 -n 15789 -f 北京市 -t 陕西省渭南市 -q true
+buy_ticket -u Durin -i IHEARDthatyouask -d 08-17 -n 15053 -f 河南省辉县市 -t 福建省龙岩市 -q true
+buy_ticket -u Silence -i TOFOREIGNLANDS -d 06-16 -n 10871 -f 江西省乐平市 -t 北京市 -q true
+buy_ticket -u Cliffheart -i INSCRIPTIONS -d 06-21 -n 9180 -f 河北省衡水市 -t 吉林省龙井市
+query_ticket -s 江西省吉安市 -t 广东省阳春市 -d 07-23 -p cost
+buy_ticket -u Beagle -i puzzletheNewWorld -d 07-21 -n 7089 -f 北京市 -t 浙江省杭州市 -q false
+query_ticket -s 河南省鹤壁市 -t 河北省任丘市 -d 07-21 -p cost
+query_ticket -s 北京市 -t 广西梧州市 -d 07-14 -p time
+buy_ticket -u Durin -i LeavesofGrass -d 08-14 -n 5388 -f 重庆市南川市 -t 河北省晋州市
+buy_ticket -u Myrtle -i TOFOREIGNLANDS -d 08-10 -n 16639 -f 广东省清远市 -t 四川省峨眉山市
+buy_ticket -u Aak -i INSCRIPTIONS -d 07-12 -n 11800 -f 江西省南昌市 -t 辽宁省沈阳市 -q false
+query_order -u Earthspirit
+buy_ticket -u Chen -i LeavesofGrass -d 08-06 -n 3286 -f 福建省莆田市 -t 天津市 -q true
+query_ticket -s 江苏省泰州市 -t 江苏省无锡市 -d 07-01 -p cost
+buy_ticket -u Matoimaru -i LeavesofGrass -d 07-22 -n 227 -f 广东省罗定市 -t 天津市 -q true
+query_ticket -s 新疆喀什市 -t 广东省英德市 -d 06-22 -p time
+buy_ticket -u Franka -i LeavesofGrass -d 07-19 -n 4002 -f 吉林省图们市 -t 四川省德阳市 -q true
+query_order -u Myrtle
+query_ticket -s 吉林省公主岭市 -t 河南省登封市 -d 08-05 -p time
+buy_ticket -u Cutter -i LeavesofGrass -d 08-02 -n 2274 -f 福建省莆田市 -t 河北省石家庄市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 07-31 -p cost
+buy_ticket -u Courier -i LeavesofGrass -d 07-20 -n 4584 -f 山东省栖霞市 -t 广东省罗定市 -q true
+query_ticket -s 辽宁省辽阳市 -t 天津市 -d 07-07 -p time
+query_ticket -s 湖北省黄石市 -t 河北省任丘市 -d 06-23 -p cost
+query_ticket -s 广西岑溪市 -t 广东省英德市 -d 06-28 -p time
+query_ticket -s 北京市 -t 江苏省昆山市 -d 07-08 -p cost
+buy_ticket -u Bison -i LeavesofGrass -d 08-01 -n 1580 -f 重庆市南川市 -t 福建省莆田市 -q true
+query_order -u Hung
+buy_ticket -u Weedy -i LeavesofGrass -d 07-13 -n 3810 -f 福建省莆田市 -t 河北省石家庄市
+query_ticket -s 陕西省延安市 -t 河南省义马市 -d 06-30 -p time
+buy_ticket -u Durin -i LeavesofGrass -d 07-20 -n 3771 -f 重庆市南川市 -t 浙江省瑞安市 -q true
+query_ticket -s 陕西省华阴市 -t 河南省义马市 -d 07-12 -p cost
+buy_ticket -u Ethan -i LeavesofGrass -d 07-22 -n 3924 -f 北京市 -t 河北省石家庄市
+query_ticket -s 湖南省韶山市 -t 陕西省华阴市 -d 07-15 -p time
+buy_ticket -u Weedy -i INSCRIPTIONS -d 07-23 -n 6125 -f 陕西省延安市 -t 辽宁省沈阳市 -q false
+query_ticket -s 云南省开远市 -t 吉林省公主岭市 -d 07-19 -p cost
+buy_ticket -u Jessica -i LeavesofGrass -d 07-28 -n 1629 -f 北京市 -t 浙江省瑞安市 -q true
+query_ticket -s 内蒙集宁市 -t 湖南省资兴市 -d 06-30 -p cost
+query_ticket -s 河北省衡水市 -t 湖南省韶山市 -d 06-28 -p time
+buy_ticket -u Estelle -i LeavesofGrass -d 07-26 -n 884 -f 浙江省瑞安市 -t 河北省石家庄市 -q false
+buy_ticket -u Weedy -i IHEARDthatyouask -d 07-02 -n 16069 -f 贵州省福泉市 -t 湖北省恩施市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-22 -p cost
+query_ticket -s 山东省莱西市 -t 广东省鹤山市 -d 08-09 -p cost
+query_ticket -s 湖北省黄石市 -t 四川省峨眉山市 -d 08-08 -p time
+query_ticket -s 贵州省安顺市 -t 山西省运城市 -d 07-02 -p cost
+buy_ticket -u Durin -i TOFOREIGNLANDS -d 08-21 -n 11040 -f 河南省鹤壁市 -t 广东省清远市 -q true
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-31 -p time
+query_ticket -s 北京市 -t 吉林省舒兰市 -d 07-06 -p cost
+buy_ticket -u Shining -i LeavesofGrass -d 07-14 -n 1826 -f 重庆市南川市 -t 河北省晋州市 -q true
+buy_ticket -u Meteorite -i LeavesofGrass -d 07-19 -n 6502 -f 山东省栖霞市 -t 四川省德阳市
+query_ticket -s 湖北省恩施市 -t 河南省辉县市 -d 08-18 -p time
+buy_ticket -u Dobermann -i LeavesofGrass -d 08-14 -n 6361 -f 浙江省瑞安市 -t 河北省石家庄市 -q false
+buy_ticket -u Ansel -i LeavesofGrass -d 07-17 -n 968 -f 重庆市南川市 -t 河北省晋州市 -q true
+query_ticket -s 河北省衡水市 -t 安徽省桐城市 -d 07-02 -p time
+query_ticket -s 辽宁省辽阳市 -t 云南省昆明市 -d 08-23 -p cost
+query_ticket -s 贵州省福泉市 -t 湖北省恩施市 -d 08-07 -p cost
+buy_ticket -u Siege -i INSCRIPTIONS -d 06-27 -n 5582 -f 陕西省华阴市 -t 河南省义马市 -q true
+buy_ticket -u Schwarz -i INSCRIPTIONS -d 07-12 -n 6141 -f 安徽省桐城市 -t 河南省义马市 -q true
+query_ticket -s 广东省南雄市 -t 辽宁省辽阳市 -d 08-17 -p cost
+buy_ticket -u Cutter -i LeavesofGrass -d 08-12 -n 1288 -f 重庆市南川市 -t 天津市
+query_order -u Cliffheart
+query_ticket -s 湖南省湘潭市 -t 广东省恩平市 -d 07-17 -p time
+buy_ticket -u Durnar -i LeavesofGrass -d 07-18 -n 2709 -f 浙江省瑞安市 -t 福建省莆田市 -q true
+query_order -u Grani
+query_order -u Durnar
+buy_ticket -u Warfarin -i LeavesofGrass -d 07-21 -n 678 -f 广东省罗定市 -t 四川省德阳市 -q true
+buy_ticket -u Courier -i IHEARDthatyouask -d 06-30 -n 1642 -f 浙江省台州市 -t 黑龙江省海林市 -q true
+query_ticket -s 河南省鹤壁市 -t 四川省都江堰市 -d 07-10 -p time
+buy_ticket -u Sideroca -i IHEARDthatyouask -d 07-17 -n 11146 -f 贵州省福泉市 -t 广东省南雄市 -q true
+query_ticket -s 贵州省安顺市 -t 天津市 -d 08-04 -p time
+buy_ticket -u Spot -i TOFOREIGNLANDS -d 06-23 -n 5470 -f 江西省上饶市 -t 广东省清远市 -q false
+query_ticket -s 吉林省蛟河市 -t 浙江省永康市 -d 07-24 -p cost
+buy_ticket -u Ansel -i LeavesofGrass -d 07-29 -n 2864 -f 浙江省瑞安市 -t 广东省江门市 -q true
+buy_ticket -u Beagle -i LeavesofGrass -d 07-14 -n 1425 -f 重庆市南川市 -t 河北省石家庄市 -q true
+buy_ticket -u Chen -i LeavesofGrass -d 08-07 -n 3054 -f 福建省莆田市 -t 河北省晋州市 -q true
+query_ticket -s 浙江省永康市 -t 吉林省公主岭市 -d 06-19 -p cost
+buy_ticket -u Rope -i LeavesofGrass -d 07-30 -n 1314 -f 北京市 -t 四川省德阳市 -q true
+buy_ticket -u Vulcan -i LeavesofGrass -d 08-07 -n 4335 -f 北京市 -t 河北省晋州市 -q true
+buy_ticket -u Conviction -i IHEARDthatyouask -d 08-08 -n 3826 -f 黑龙江省海林市 -t 江苏省太仓市 -q true
+buy_ticket -u Gravel -i INSCRIPTIONS -d 07-24 -n 12245 -f 陕西省渭南市 -t 福建省永安市 -q true
+query_ticket -s 吉林省蛟河市 -t 云南省开远市 -d 07-25 -p cost
+buy_ticket -u Cliffheart -i IHEARDthatyouask -d 07-23 -n 980 -f 贵州省福泉市 -t 山东省诸城市 -q true
+buy_ticket -u Ifrit -i TOFOREIGNLANDS -d 08-07 -n 8481 -f 湖北省黄石市 -t 江西省上饶市 -q true
+query_ticket -s 新疆喀什市 -t 江苏省海门市 -d 06-15 -p cost
+buy_ticket -u Durin -i LeavesofGrass -d 08-08 -n 2336 -f 广东省江门市 -t 河北省石家庄市 -q true
+query_ticket -s 湖北省恩施市 -t 江苏省太仓市 -d 08-07 -p time
+query_ticket -s 江西省吉安市 -t 广东省阳春市 -d 07-23 -p cost
+query_ticket -s 北京市 -t 陕西省延安市 -d 07-09 -p cost
+query_ticket -s 江西省乐平市 -t 江西省上饶市 -d 08-04 -p cost
+query_ticket -s 江西省南昌市 -t 安徽省桐城市 -d 07-24 -p time
+query_ticket -s 云南省开远市 -t 辽宁省本溪市 -d 06-23 -p time
+query_ticket -s 天津市 -t 云南省昆明市 -d 06-15 -p cost
+query_ticket -s 重庆市南川市 -t 浙江省瑞安市 -d 08-11 -p time
+buy_ticket -u Midnight -i IHEARDthatyouask -d 08-05 -n 10466 -f 湖北省恩施市 -t 广东省南雄市 -q false
+buy_ticket -u Rope -i LeavesofGrass -d 07-16 -n 6565 -f 福建省漳州市 -t 河北省石家庄市 -q true
+query_ticket -s 广东省雷州市 -t 浙江省余姚市 -d 06-27 -p time
+query_ticket -s 浙江省永康市 -t 河南省新郑市 -d 08-03 -p cost
+query_ticket -s 重庆市南川市 -t 福建省漳州市 -d 08-10 -p cost
+buy_ticket -u Breeze -i INSCRIPTIONS -d 06-25 -n 4156 -f 湖南省韶山市 -t 安徽省桐城市 -q false
+buy_ticket -u Specter -i LeavesofGrass -d 07-29 -n 4313 -f 重庆市南川市 -t 福建省漳州市 -q false
+query_ticket -s 北京市 -t 广西梧州市 -d 08-22 -p cost
+query_ticket -s 吉林省龙井市 -t 安徽省桐城市 -d 07-19 -p time
+query_ticket -s 山东省诸城市 -t 辽宁省辽阳市 -d 07-08 -p cost
+buy_ticket -u Shining -i INSCRIPTIONS -d 07-18 -n 17021 -f 吉林省龙井市 -t 陕西省渭南市 -q false
+query_ticket -s 河北省冀州市 -t 河南省巩义市 -d 06-27 -p cost
+buy_ticket -u Frostleaf -i TOFOREIGNLANDS -d 06-25 -n 12560 -f 贵州省贵阳市 -t 江西省上饶市 -q true
+buy_ticket -u Beehunter -i INSCRIPTIONS -d 06-20 -n 17654 -f 辽宁省沈阳市 -t 福建省永安市 -q true
+query_ticket -s 江苏省海门市 -t 湖南省吉首市 -d 07-14 -p time
+query_ticket -s 山西省朔州市 -t 江苏省海门市 -d 07-05 -p time
+buy_ticket -u Bibeak -i TOFOREIGNLANDS -d 08-10 -n 11165 -f 广东省清远市 -t 河北省任丘市 -q true
+buy_ticket -u Durin -i IHEARDthatyouask -d 08-14 -n 8180 -f 山东省诸城市 -t 河南省邓州市 -q true
+buy_ticket -u Melantha -i LeavesofGrass -d 07-17 -n 436 -f 北京市 -t 河北省石家庄市 -q true
+query_ticket -s 安徽省滁州市 -t 贵州省贵阳市 -d 07-14 -p time
+query_ticket -s 辽宁省辽阳市 -t 云南省昆明市 -d 06-07 -p cost
+buy_ticket -u Kroos -i LeavesofGrass -d 08-15 -n 6916 -f 福建省莆田市 -t 广东省罗定市 -q false
+buy_ticket -u Savage -i LeavesofGrass -d 07-28 -n 1910 -f 福建省莆田市 -t 河北省晋州市 -q true
+query_ticket -s 河南省新郑市 -t 辽宁省本溪市 -d 07-09 -p cost
+query_order -u Zima
+query_ticket -s 河南省南阳市 -t 河南省新郑市 -d 06-25 -p cost
+query_ticket -s 江西省南昌市 -t 安徽省桐城市 -d 07-09 -p time
+buy_ticket -u Lappland -i INSCRIPTIONS -d 07-22 -n 87 -f 陕西省华阴市 -t 浙江省永康市 -q true
+buy_ticket -u Bibeak -i LeavesofGrass -d 07-30 -n 2434 -f 山东省栖霞市 -t 天津市 -q false
+buy_ticket -u Vigna -i LeavesofGrass -d 08-03 -n 1667 -f 河北省晋州市 -t 四川省德阳市 -q true
+query_ticket -s 北京市 -t 广西梧州市 -d 08-26 -p time
+buy_ticket -u Snowsant -i INSCRIPTIONS -d 06-30 -n 1653 -f 辽宁省沈阳市 -t 陕西省华阴市 -q true
+query_ticket -s 四川省都江堰市 -t 江西省上饶市 -d 08-04 -p cost
+query_ticket -s 陕西省延安市 -t 福建省永安市 -d 06-19 -p time
+query_ticket -s 河北省冀州市 -t 山西省孝义市 -d 07-15 -p cost
+query_ticket -s 广西岑溪市 -t 吉林省四平市 -d 07-17 -p time
+query_ticket -s 福建省莆田市 -t 广东省罗定市 -d 08-15 -p time
+query_ticket -s 贵州省贵阳市 -t 吉林省四平市 -d 08-07 -p time
+query_ticket -s 湖北省恩施市 -t 广东省恩平市 -d 08-22 -p cost
+buy_ticket -u Deepcolor -i LeavesofGrass -d 08-15 -n 6384 -f 福建省漳州市 -t 广东省罗定市 -q true
+buy_ticket -u I_am_the_admin -i LeavesofGrass -d 08-12 -n 692 -f 浙江省瑞安市 -t 四川省德阳市
+buy_ticket -u Vigna -i TOFOREIGNLANDS -d 08-04 -n 18706 -f 贵州省贵阳市 -t 四川省峨眉山市 -q true
+buy_ticket -u Nearl -i puzzletheNewWorld -d 08-10 -n 5697 -f 广西梧州市 -t 山东省淄博市 -q false
+buy_ticket -u Warfarin -i INSCRIPTIONS -d 07-13 -n 10337 -f 安徽省桐城市 -t 福建省永安市 -q true
+release_train -i INSCRIPTIONS
+query_ticket -s 新疆喀什市 -t 辽宁省庄河市 -d 06-21 -p time
+query_ticket -s 山东省栖霞市 -t 四川省德阳市 -d 07-19 -p time
+query_ticket -s 福建省龙岩市 -t 黑龙江省海林市 -d 07-24 -p cost
+query_ticket -s 河北省冀州市 -t 福建省南平市 -d 07-06 -p time
+query_ticket -s 吉林省蛟河市 -t 河南省新郑市 -d 07-06 -p time
+buy_ticket -u Beagle -i INSCRIPTIONS -d 07-04 -n 16348 -f 江西省南昌市 -t 安徽省桐城市 -q true
+buy_ticket -u Mayer -i INSCRIPTIONS -d 07-19 -n 9299 -f 辽宁省沈阳市 -t 陕西省华阴市 -q true
+query_order -u Astesia
+query_ticket -s 山东省胶南市 -t 河北省鹿泉市 -d 07-13 -p time
+buy_ticket -u Croissant -i LeavesofGrass -d 07-30 -n 564 -f 广东省江门市 -t 河北省石家庄市 -q true
+query_train -d 08-01 -i TOFOREIGNLANDS
+buy_ticket -u Flamebringer -i INSCRIPTIONS -d 06-21 -n 7799 -f 陕西省渭南市 -t 浙江省永康市 -q true
+buy_ticket -u Warfarin -i LeavesofGrass -d 07-20 -n 6310 -f 福建省莆田市 -t 天津市 -q true
+buy_ticket -u Ptilopsis -i LeavesofGrass -d 07-17 -n 412 -f 吉林省图们市 -t 四川省德阳市
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-27 -p time
+buy_ticket -u Midnight -i puzzletheNewWorld -d 07-15 -n 3362 -f 广西梧州市 -t 浙江省杭州市 -q true
+buy_ticket -u Myrrh -i LeavesofGrass -d 07-16 -n 5738 -f 山东省栖霞市 -t 广东省江门市 -q true
+query_ticket -s 江西省南昌市 -t 浙江省永康市 -d 06-29 -p cost
+buy_ticket -u Sesa -i INSCRIPTIONS -d 06-27 -n 15721 -f 陕西省延安市 -t 浙江省永康市 -q true
+buy_ticket -u Shining -i LeavesofGrass -d 08-04 -n 2065 -f 福建省莆田市 -t 河北省晋州市
+query_ticket -s 山东省即墨市 -t 天津市 -d 06-14 -p time
+buy_ticket -u Nearl -i TOFOREIGNLANDS -d 08-14 -n 13150 -f 福建省建阳市 -t 四川省峨眉山市 -q false
+query_ticket -s 吉林省龙井市 -t 广东省恩平市 -d 08-13 -p cost
+buy_ticket -u Angelina -i LeavesofGrass -d 08-12 -n 952 -f 浙江省瑞安市 -t 山东省栖霞市
+query_ticket -s 吉林省长春市 -t 湖北省广水市 -d 07-18 -p cost
+buy_ticket -u Ansel -i puzzletheNewWorld -d 07-16 -n 203 -f 北京市 -t 山东省淄博市
+buy_ticket -u Pramanix -i LeavesofGrass -d 07-26 -n 2699 -f 山东省栖霞市 -t 广东省罗定市
+query_ticket -s 内蒙集宁市 -t 陕西省宝鸡市 -d 07-23 -p cost
+buy_ticket -u I_am_the_admin -i LeavesofGrass -d 08-14 -n 5393 -f 福建省漳州市 -t 广东省江门市
+buy_ticket -u Jessica -i IHEARDthatyouask -d 06-29 -n 10729 -f 辽宁省辽阳市 -t 黑龙江省海林市 -q true
+buy_ticket -u Conviction -i whatyouwanted -d 07-16 -n 17892 -f 江苏省泰州市 -t 吉林省舒兰市 -q true
+buy_ticket -u Scavenger -i TOFOREIGNLANDS -d 08-04 -n 12094 -f 四川省都江堰市 -t 北京市 -q false
+query_ticket -s 黑龙江省海林市 -t 江苏省太仓市 -d 08-07 -p cost
+buy_ticket -u Gitano -i ThereforeIsendyou -d 06-13 -n 4888 -f 广东省南海市 -t 辽宁省庄河市 -q true
+query_ticket -s 江苏省海门市 -t 江西省宜春市 -d 07-01 -p time
+query_ticket -s 河南省南阳市 -t 江苏省昆山市 -d 08-05 -p time
+buy_ticket -u Flamebringer -i LeavesofGrass -d 08-06 -n 1262 -f 福建省漳州市 -t 四川省德阳市 -q true
+query_ticket -s 北京市 -t 广西梧州市 -d 07-23 -p time
+buy_ticket -u Sesa -i LeavesofGrass -d 07-29 -n 535 -f 重庆市南川市 -t 福建省漳州市 -q false
+query_ticket -s 河北省衡水市 -t 陕西省渭南市 -d 06-29 -p cost
+buy_ticket -u Matterhorn -i puzzletheNewWorld -d 08-24 -n 12493 -f 浙江省杭州市 -t 山东省淄博市 -q true
+buy_ticket -u Ifrit -i LeavesofGrass -d 08-11 -n 2400 -f 吉林省图们市 -t 天津市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-13 -p time
+buy_ticket -u Scavenger -i TOFOREIGNLANDS -d 06-20 -n 22260 -f 安徽省滁州市 -t 江西省上饶市 -q true
+buy_ticket -u Skyfire -i TOFOREIGNLANDS -d 06-15 -n 13479 -f 湖北省黄石市 -t 河南省鹤壁市 -q true
+buy_ticket -u Pramanix -i TOFOREIGNLANDS -d 07-03 -n 10250 -f 湖北省黄石市 -t 安徽省滁州市 -q true
+query_ticket -s 贵州省福泉市 -t 吉林省龙井市 -d 08-04 -p time
+query_ticket -s 贵州省安顺市 -t 甘肃省兰州市 -d 06-28 -p cost
+buy_ticket -u Pramanix -i INSCRIPTIONS -d 06-24 -n 3547 -f 湖南省韶山市 -t 福建省永安市 -q true
+buy_ticket -u Spot -i LeavesofGrass -d 07-24 -n 3766 -f 广东省罗定市 -t 四川省德阳市 -q false
+query_ticket -s 河南省鹤壁市 -t 福建省建阳市 -d 08-19 -p time
+query_order -u Greyy
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-26 -p time
+buy_ticket -u Gummy -i LeavesofGrass -d 08-10 -n 632 -f 福建省漳州市 -t 天津市 -q true
+query_ticket -s 辽宁省辽阳市 -t 山东省即墨市 -d 06-21 -p time
+query_ticket -s 陕西省延安市 -t 湖南省韶山市 -d 07-09 -p cost
+query_ticket -s 山西省朔州市 -t 广东省鹤山市 -d 07-07 -p cost
+query_ticket -s 河北省鹿泉市 -t 山东省泰安市 -d 06-22 -p time
+buy_ticket -u Gitano -i INSCRIPTIONS -d 06-30 -n 7287 -f 北京市 -t 陕西省华阴市 -q true
+query_ticket -s 吉林省蛟河市 -t 北京市 -d 07-11 -p time
+query_ticket -s 河南省辉县市 -t 福建省龙岩市 -d 07-27 -p time
+buy_ticket -u Chen -i LeavesofGrass -d 07-31 -n 3349 -f 吉林省图们市 -t 广东省江门市 -q false
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-17 -p cost
+buy_ticket -u Ceobe -i LeavesofGrass -d 07-19 -n 4052 -f 吉林省图们市 -t 浙江省瑞安市 -q true
+query_ticket -s 吉林省图们市 -t 四川省德阳市 -d 07-20 -p time
+query_ticket -s 四川省都江堰市 -t 河北省任丘市 -d 08-18 -p cost
+query_ticket -s 安徽省滁州市 -t 江西省上饶市 -d 08-03 -p cost
+query_ticket -s 贵州省贵阳市 -t 北京市 -d 07-29 -p cost
+buy_ticket -u Lappland -i LeavesofGrass -d 08-02 -n 2251 -f 吉林省图们市 -t 广东省罗定市 -q false
+buy_ticket -u Gravel -i LeavesofGrass -d 07-14 -n 2267 -f 山东省栖霞市 -t 河北省晋州市
+buy_ticket -u Vulcan -i LeavesofGrass -d 08-13 -n 1466 -f 福建省漳州市 -t 河北省晋州市 -q false
+buy_ticket -u Reed -i LeavesofGrass -d 07-15 -n 3709 -f 重庆市南川市 -t 浙江省瑞安市 -q true
+query_ticket -s 湖南省韶山市 -t 辽宁省沈阳市 -d 06-29 -p time
+query_ticket -s 江苏省无锡市 -t 辽宁省沈阳市 -d 07-26 -p time
+buy_ticket -u Silence -i AndtodefineAmeric -d 07-15 -n 349 -f 黑龙江省双城市 -t 云南省昆明市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-01 -p time
+buy_ticket -u ProjeKTRed -i INSCRIPTIONS -d 06-27 -n 13278 -f 江西省南昌市 -t 陕西省华阴市 -q true
+buy_ticket -u Matoimaru -i INSCRIPTIONS -d 07-02 -n 7139 -f 陕西省延安市 -t 河北省衡水市 -q false
+query_ticket -s 吉林省蛟河市 -t 辽宁省本溪市 -d 07-14 -p time
+query_ticket -s 浙江省瑞安市 -t 河北省晋州市 -d 07-29 -p cost
+buy_ticket -u Gummy -i INSCRIPTIONS -d 06-21 -n 2879 -f 安徽省桐城市 -t 福建省永安市 -q true
+query_ticket -s 贵州省贵阳市 -t 河北省任丘市 -d 07-03 -p time
+buy_ticket -u Spot -i INSCRIPTIONS -d 07-13 -n 3250 -f 安徽省桐城市 -t 福建省永安市 -q true
+buy_ticket -u Ansel -i TOFOREIGNLANDS -d 08-04 -n 3309 -f 安徽省滁州市 -t 四川省都江堰市 -q false
+query_ticket -s 黑龙江省双城市 -t 天津市 -d 07-16 -p cost
+buy_ticket -u Lava -i LeavesofGrass -d 08-08 -n 1378 -f 山东省栖霞市 -t 天津市 -q true
+buy_ticket -u Astesia -i LeavesofGrass -d 07-14 -n 7128 -f 福建省莆田市 -t 河北省晋州市
+query_ticket -s 湖北省钟祥市 -t 辽宁省庄河市 -d 06-21 -p time
+query_ticket -s 陕西省延安市 -t 河南省义马市 -d 06-24 -p cost
+query_ticket -s 黑龙江省北安市 -t 河南省巩义市 -d 06-25 -p cost
+query_ticket -s 江苏省泰州市 -t 江苏省句容市 -d 07-19 -p cost
+query_ticket -s 福建省漳州市 -t 四川省德阳市 -d 08-01 -p cost
+buy_ticket -u Breeze -i INSCRIPTIONS -d 06-25 -n 16139 -f 安徽省桐城市 -t 浙江省永康市 -q false
+buy_ticket -u Vigna -i LeavesofGrass -d 07-13 -n 3884 -f 浙江省瑞安市 -t 山东省栖霞市 -q true
+buy_ticket -u Kroos -i puzzletheNewWorld -d 08-21 -n 6963 -f 北京市 -t 山东省淄博市 -q true
+query_ticket -s 河北省鹿泉市 -t 广东省雷州市 -d 07-25 -p cost
+query_ticket -s 江西省宜春市 -t 辽宁省庄河市 -d 08-12 -p cost
+buy_ticket -u Orchid -i LeavesofGrass -d 08-06 -n 4897 -f 重庆市南川市 -t 广东省江门市 -q true
+query_ticket -s 云南省昆明市 -t 山西省运城市 -d 06-21 -p cost
+query_ticket -s 北京市 -t 广西梧州市 -d 08-28 -p time
+buy_ticket -u Sideroca -i LeavesofGrass -d 08-04 -n 558 -f 重庆市南川市 -t 浙江省瑞安市 -q true
+query_ticket -s 吉林省图们市 -t 广东省罗定市 -d 08-15 -p cost
+buy_ticket -u Croissant -i LeavesofGrass -d 08-06 -n 2306 -f 重庆市南川市 -t 广东省罗定市 -q false
+buy_ticket -u Platinum -i LeavesofGrass -d 07-18 -n 3449 -f 重庆市南川市 -t 山东省栖霞市 -q true
+query_ticket -s 甘肃省兰州市 -t 云南省昆明市 -d 07-05 -p time
+buy_ticket -u I_am_the_admin -i LeavesofGrass -d 07-31 -n 2175 -f 北京市 -t 四川省德阳市 -q true
+query_ticket -s 山西省朔州市 -t 湖北省钟祥市 -d 08-07 -p cost
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 08-16 -p time
+buy_ticket -u Earthspirit -i IHEARDthatyouask -d 08-12 -n 13609 -f 贵州省福泉市 -t 吉林省龙井市 -q false
+query_ticket -s 湖南省韶山市 -t 江苏省新沂市 -d 06-21 -p time
+buy_ticket -u Shaw -i INSCRIPTIONS -d 07-09 -n 14978 -f 江西省南昌市 -t 安徽省桐城市 -q true
+buy_ticket -u Gitano -i LeavesofGrass -d 08-12 -n 3969 -f 重庆市南川市 -t 福建省漳州市 -q false
+query_ticket -s 浙江省台州市 -t 江苏省太仓市 -d 08-12 -p time
+add_train -i Thoupeerlesspassi -n 15 -m 93742 -s 安徽省滁州市|河北省安国市|陕西省华阴市|辽宁省普兰店市|吉林省吉林市|云南省潞西市|贵州省赤水市|山东省安丘市|陕西省榆林市|江苏省扬中市|广东省深圳市|江苏省淮阴市|天津市|湖南省武冈市|辽宁省沈阳市 -p 3734|4358|4120|3098|994|1639|585|1431|167|4397|3796|2973|207|3695 -x 10:59 -t 72|103|68|52|130|26|55|83|102|177|60|69|156|171 -o 6|4|8|6|3|3|8|7|3|7|6|10|3 -d 06-04|07-25 -y S
+query_ticket -s 北京市 -t 浙江省余姚市 -d 07-19 -p time
+buy_ticket -u Midnight -i ThereforeIsendyou -d 07-31 -n 4494 -f 江苏省连云港市 -t 黑龙江省铁力市 -q true
+query_ticket -s 广东省南雄市 -t 浙江省台州市 -d 07-27 -p cost
+query_order -u Reed
+query_ticket -s 广西梧州市 -t 浙江省杭州市 -d 07-27 -p cost
+query_ticket -s 陕西省华阴市 -t 吉林省长春市 -d 07-08 -p time
+buy_ticket -u Snowsant -i INSCRIPTIONS -d 06-23 -n 9844 -f 北京市 -t 陕西省延安市 -q true
+query_ticket -s 安徽省桐城市 -t 陕西省渭南市 -d 07-05 -p cost
+query_ticket -s 湖北省广水市 -t 广东省阳春市 -d 07-18 -p time
+query_ticket -s 安徽省滁州市 -t 江西省上饶市 -d 08-19 -p cost
+query_ticket -s 安徽省桐城市 -t 江苏省新沂市 -d 07-04 -p cost
+buy_ticket -u Meteorite -i TOFOREIGNLANDS -d 06-17 -n 6637 -f 湖北省黄石市 -t 贵州省贵阳市 -q true
+buy_ticket -u Gitano -i LeavesofGrass -d 08-06 -n 4210 -f 北京市 -t 广东省江门市 -q true
+buy_ticket -u I_am_the_admin -i LeavesofGrass -d 07-20 -n 2836 -f 浙江省瑞安市 -t 广东省罗定市 -q false
+buy_ticket -u Conviction -i ThereforeIsendyou -d 06-08 -n 3535 -f 广东省南海市 -t 辽宁省沈阳市 -q true
+buy_ticket -u Cliffheart -i IHEARDthatyouask -d 07-21 -n 1193 -f 辽宁省辽阳市 -t 黑龙江省海林市 -q true
+release_train -i Thoupeerlesspassi
+query_ticket -s 山东省诸城市 -t 湖北省恩施市 -d 07-22 -p time
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 08-25 -p time
+query_ticket -s 辽宁省沈阳市 -t 浙江省永康市 -d 06-25 -p cost
+query_ticket -s 辽宁省辽阳市 -t 湖南省冷水江市 -d 08-09 -p time
+query_ticket -s 云南省昆明市 -t 湖南省冷水江市 -d 07-31 -p cost
+buy_ticket -u Gravel -i IHEARDthatyouask -d 07-28 -n 12575 -f 山东省诸城市 -t 辽宁省辽阳市 -q true
+query_ticket -s 广东省清远市 -t 河北省任丘市 -d 06-19 -p time
+buy_ticket -u Silence -i INSCRIPTIONS -d 07-07 -n 3437 -f 江苏省新沂市 -t 浙江省永康市 -q true
+buy_ticket -u Specter -i INSCRIPTIONS -d 06-27 -n 11053 -f 吉林省龙井市 -t 浙江省永康市 -q true
+buy_ticket -u Orchid -i INSCRIPTIONS -d 07-02 -n 10269 -f 江苏省新沂市 -t 浙江省永康市 -q true
+query_ticket -s 吉林省图们市 -t 河北省石家庄市 -d 07-15 -p cost
+query_ticket -s 山东省即墨市 -t 湖南省冷水江市 -d 06-11 -p cost
+buy_ticket -u Matoimaru -i LeavesofGrass -d 08-16 -n 637 -f 北京市 -t 广东省江门市 -q true
+buy_ticket -u Spot -i LeavesofGrass -d 07-13 -n 6628 -f 河北省晋州市 -t 河北省石家庄市 -q true
+query_ticket -s 甘肃省兰州市 -t 湖南省冷水江市 -d 08-20 -p time
+query_ticket -s 云南省潞西市 -t 广东省深圳市 -d 06-19 -p time
+query_ticket -s 江苏省连云港市 -t 江苏省海门市 -d 07-04 -p time
+query_ticket -s 湖南省湘潭市 -t 浙江省台州市 -d 07-20 -p cost
+buy_ticket -u Ansel -i Thoupeerlesspassi -d 07-04 -n 1727 -f 安徽省滁州市 -t 湖南省武冈市 -q true
+query_ticket -s 河北省鹿泉市 -t 山东省泰安市 -d 07-23 -p time
+buy_ticket -u Eyjafjalla -i LeavesofGrass -d 08-08 -n 3183 -f 福建省漳州市 -t 河北省石家庄市
+buy_ticket -u Blaze -i LeavesofGrass -d 07-31 -n 5903 -f 福建省漳州市 -t 广东省罗定市 -q true
+query_ticket -s 贵州省安顺市 -t 山东省即墨市 -d 06-09 -p cost
+buy_ticket -u Reed -i TOFOREIGNLANDS -d 06-27 -n 2236 -f 四川省都江堰市 -t 四川省峨眉山市 -q true
+query_ticket -s 浙江省永康市 -t 湖北省老河口市 -d 07-27 -p time
+buy_ticket -u Beagle -i LeavesofGrass -d 08-10 -n 3646 -f 重庆市南川市 -t 吉林省图们市
+query_ticket -s 山东省泰安市 -t 黑龙江省讷河市 -d 06-27 -p cost
+buy_ticket -u Frostleaf -i INSCRIPTIONS -d 07-09 -n 3771 -f 湖南省韶山市 -t 浙江省永康市 -q true
+query_ticket -s 四川省都江堰市 -t 贵州省贵阳市 -d 07-14 -p time
+buy_ticket -u Swire -i INSCRIPTIONS -d 07-21 -n 8859 -f 河南省义马市 -t 浙江省永康市 -q true
+query_ticket -s 河北省鹿泉市 -t 湖南省常德市 -d 06-24 -p cost
+query_ticket -s 广东省英德市 -t 湖北省钟祥市 -d 08-01 -p cost
+buy_ticket -u Sesa -i LeavesofGrass -d 08-13 -n 3168 -f 吉林省图们市 -t 四川省德阳市 -q true
+buy_ticket -u Ptilopsis -i LeavesofGrass -d 07-15 -n 2433 -f 福建省莆田市 -t 四川省德阳市 -q true
+query_ticket -s 黑龙江省讷河市 -t 浙江省余姚市 -d 07-14 -p cost
+buy_ticket -u Orchid -i LeavesofGrass -d 07-25 -n 2880 -f 河北省晋州市 -t 四川省德阳市 -q true
+query_ticket -s 贵州省福泉市 -t 广东省恩平市 -d 07-25 -p time
+buy_ticket -u Blaze -i LeavesofGrass -d 07-28 -n 3293 -f 广东省罗定市 -t 广东省江门市
+refund_ticket -u Chen -n 3
+buy_ticket -u Greyy -i LeavesofGrass -d 08-05 -n 5450 -f 山东省栖霞市 -t 河北省石家庄市 -q true
+query_ticket -s 湖北省老河口市 -t 辽宁省本溪市 -d 07-11 -p cost
+query_ticket -s 吉林省蛟河市 -t 吉林省公主岭市 -d 07-21 -p time
+buy_ticket -u Warfarin -i LeavesofGrass -d 08-12 -n 905 -f 北京市 -t 天津市 -q true
+buy_ticket -u Melantha -i IHEARDthatyouask -d 07-02 -n 8415 -f 湖南省湘潭市 -t 吉林省龙井市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 08-01 -n 5069 -f 北京市 -t 广东省罗定市
+buy_ticket -u Beagle -i LeavesofGrass -d 08-04 -n 4655 -f 河北省晋州市 -t 广东省罗定市 -q true
+query_ticket -s 吉林省图们市 -t 天津市 -d 07-12 -p time
+buy_ticket -u Rope -i INSCRIPTIONS -d 06-28 -n 4233 -f 吉林省龙井市 -t 浙江省永康市 -q true
+buy_ticket -u Reed -i LeavesofGrass -d 07-21 -n 1738 -f 北京市 -t 广东省江门市
+query_ticket -s 江西省乐平市 -t 福建省建阳市 -d 07-18 -p time
+query_order -u Siege
+query_order -u Durin
+buy_ticket -u Conviction -i INSCRIPTIONS -d 06-21 -n 6442 -f 江西省南昌市 -t 江苏省新沂市 -q true
+buy_ticket -u Ptilopsis -i INSCRIPTIONS -d 07-22 -n 8012 -f 北京市 -t 福建省永安市 -q true
+query_order -u Specter
+query_ticket -s 湖南省武冈市 -t 辽宁省沈阳市 -d 07-22 -p time
+buy_ticket -u Estelle -i INSCRIPTIONS -d 07-04 -n 4117 -f 北京市 -t 陕西省渭南市 -q false
+buy_ticket -u Mostima -i LeavesofGrass -d 07-16 -n 2645 -f 天津市 -t 河北省石家庄市 -q true
+query_ticket -s 江西省乐平市 -t 四川省都江堰市 -d 07-15 -p time
+refund_ticket -u Gravel -n 2
+buy_ticket -u Mostima -i LeavesofGrass -d 08-12 -n 1111 -f 福建省莆田市 -t 广东省江门市
+query_ticket -s 湖北省广水市 -t 山西省孝义市 -d 07-17 -p time
+buy_ticket -u Lappland -i INSCRIPTIONS -d 06-28 -n 719 -f 江西省南昌市 -t 陕西省渭南市 -q false
+buy_ticket -u Weedy -i TOFOREIGNLANDS -d 08-16 -n 18296 -f 安徽省滁州市 -t 福建省建阳市 -q true
+query_order -u Sesa
+buy_ticket -u Istina -i LeavesofGrass -d 07-16 -n 7065 -f 浙江省瑞安市 -t 河北省晋州市 -q true
+buy_ticket -u Estelle -i LeavesofGrass -d 08-02 -n 5607 -f 吉林省图们市 -t 福建省莆田市 -q true
+buy_ticket -u Gravel -i INSCRIPTIONS -d 07-22 -n 1932 -f 河南省义马市 -t 福建省永安市 -q true
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 07-17 -p cost
+query_ticket -s 陕西省延安市 -t 河北省衡水市 -d 07-03 -p time
+query_ticket -s 湖北省黄石市 -t 贵州省贵阳市 -d 06-30 -p cost
+buy_ticket -u Hung -i LeavesofGrass -d 07-13 -n 4795 -f 福建省漳州市 -t 河北省晋州市
+buy_ticket -u Ceylon -i LeavesofGrass -d 07-19 -n 6599 -f 吉林省图们市 -t 浙江省瑞安市 -q true
+query_ticket -s 陕西省华阴市 -t 广东省阳春市 -d 06-28 -p cost
+query_order -u Cutter
+query_ticket -s 吉林省吉林市 -t 山东省安丘市 -d 06-21 -p time
+buy_ticket -u Vulcan -i LeavesofGrass -d 07-15 -n 4745 -f 河北省晋州市 -t 广东省罗定市 -q true
+query_ticket -s 江苏省连云港市 -t 新疆喀什市 -d 08-11 -p cost
+buy_ticket -u Sideroca -i LeavesofGrass -d 08-11 -n 5984 -f 北京市 -t 浙江省瑞安市 -q false
+buy_ticket -u Weedy -i LeavesofGrass -d 07-16 -n 798 -f 北京市 -t 重庆市南川市 -q true
+buy_ticket -u Dobermann -i LeavesofGrass -d 07-26 -n 6244 -f 重庆市南川市 -t 山东省栖霞市 -q true
+query_ticket -s 山东省莱西市 -t 辽宁省沈阳市 -d 07-15 -p cost
+query_ticket -s 山东省莱西市 -t 吉林省四平市 -d 06-21 -p time
+buy_ticket -u Skadi -i puzzletheNewWorld -d 07-29 -n 9580 -f 浙江省杭州市 -t 山东省淄博市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-07 -p time
+buy_ticket -u Cutter -i LeavesofGrass -d 07-20 -n 5682 -f 河北省晋州市 -t 广东省罗定市
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 08-10 -p time
+buy_ticket -u WaaiFu -i LeavesofGrass -d 07-14 -n 757 -f 吉林省图们市 -t 四川省德阳市 -q false
+buy_ticket -u Gummy -i INSCRIPTIONS -d 07-21 -n 16462 -f 江西省南昌市 -t 江苏省新沂市 -q true
+query_ticket -s 黑龙江省讷河市 -t 浙江省余姚市 -d 07-10 -p cost
+query_order -u Durnar
+buy_ticket -u Courier -i IHEARDthatyouask -d 08-02 -n 11509 -f 湖南省湘潭市 -t 浙江省台州市 -q true
+buy_ticket -u Earthspirit -i IHEARDthatyouask -d 07-08 -n 5192 -f 贵州省福泉市 -t 吉林省龙井市 -q true
+query_ticket -s 天津市 -t 山西省运城市 -d 06-27 -p cost
+query_ticket -s 黑龙江省七台河市 -t 江苏省无锡市 -d 06-29 -p time
+buy_ticket -u Conviction -i INSCRIPTIONS -d 07-08 -n 1205 -f 湖南省韶山市 -t 陕西省华阴市
+buy_ticket -u Franka -i puzzletheNewWorld -d 07-24 -n 3436 -f 浙江省杭州市 -t 山东省淄博市 -q true
+buy_ticket -u Melantha -i INSCRIPTIONS -d 07-05 -n 9013 -f 福建省永安市 -t 浙江省永康市 -q true
+buy_ticket -u Haze -i LeavesofGrass -d 07-18 -n 3073 -f 河北省晋州市 -t 广东省罗定市 -q false
+query_ticket -s 湖北省恩施市 -t 河南省邓州市 -d 07-11 -p time
+buy_ticket -u Jessica -i IHEARDthatyouask -d 07-31 -n 3260 -f 湖南省湘潭市 -t 黑龙江省海林市 -q true
+buy_ticket -u Nian -i LeavesofGrass -d 07-27 -n 1134 -f 吉林省图们市 -t 天津市 -q true
+query_ticket -s 河北省冀州市 -t 福建省南平市 -d 07-01 -p time
+query_ticket -s 湖南省湘潭市 -t 福建省龙岩市 -d 08-15 -p time
+buy_ticket -u Gitano -i LeavesofGrass -d 08-13 -n 6717 -f 福建省漳州市 -t 广东省江门市 -q true
+query_ticket -s 吉林省图们市 -t 福建省漳州市 -d 08-07 -p cost
+buy_ticket -u Nearl -i Thoupeerlesspassi -d 06-05 -n 8047 -f 河北省安国市 -t 辽宁省沈阳市 -q true
+buy_ticket -u Specter -i LeavesofGrass -d 07-21 -n 6883 -f 吉林省图们市 -t 四川省德阳市 -q true
+buy_ticket -u Ceobe -i LeavesofGrass -d 07-25 -n 5135 -f 浙江省瑞安市 -t 广东省江门市 -q true
+query_order -u Shamare
+query_ticket -s 湖北省钟祥市 -t 吉林省四平市 -d 06-21 -p time
+query_ticket -s 湖南省湘潭市 -t 广东省恩平市 -d 07-06 -p cost
+buy_ticket -u Beagle -i puzzletheNewWorld -d 08-19 -n 12329 -f 北京市 -t 山东省淄博市 -q false
+query_ticket -s 湖北省钟祥市 -t 广东省南海市 -d 07-12 -p cost
+query_ticket -s 贵州省赤水市 -t 辽宁省沈阳市 -d 07-23 -p time
+buy_ticket -u Sesa -i LeavesofGrass -d 07-12 -n 5125 -f 吉林省图们市 -t 河北省晋州市
+buy_ticket -u Scavenger -i LeavesofGrass -d 07-20 -n 347 -f 河北省晋州市 -t 广东省罗定市 -q true
+query_train -d 03-15 -i TOtheeoldcause
+buy_ticket -u Weedy -i LeavesofGrass -d 07-12 -n 6653 -f 广东省罗定市 -t 四川省德阳市 -q true
+query_order -u Scavenger
+query_ticket -s 江西省吉安市 -t 福建省南平市 -d 07-09 -p cost
+query_ticket -s 四川省都江堰市 -t 河北省任丘市 -d 07-23 -p time
+query_ticket -s 湖北省黄石市 -t 广东省清远市 -d 07-02 -p cost
+buy_ticket -u Franka -i LeavesofGrass -d 08-05 -n 2886 -f 吉林省图们市 -t 河北省石家庄市
+query_ticket -s 天津市 -t 山西省运城市 -d 07-10 -p time
+buy_ticket -u Ceylon -i LeavesofGrass -d 07-25 -n 3259 -f 河北省晋州市 -t 四川省德阳市
+query_ticket -s 广东省清远市 -t 四川省峨眉山市 -d 06-16 -p time
+query_order -u Executor
+buy_ticket -u Reed -i TOFOREIGNLANDS -d 07-03 -n 2494 -f 北京市 -t 福建省建阳市 -q true
+buy_ticket -u Myrrh -i TOFOREIGNLANDS -d 08-04 -n 21881 -f 安徽省滁州市 -t 四川省峨眉山市 -q true
+query_ticket -s 河北省衡水市 -t 浙江省永康市 -d 07-16 -p time
+query_ticket -s 四川省都江堰市 -t 广东省清远市 -d 08-15 -p cost
+query_ticket -s 山东省栖霞市 -t 河北省晋州市 -d 07-23 -p cost
+buy_ticket -u Melantha -i TOFOREIGNLANDS -d 07-12 -n 6365 -f 安徽省滁州市 -t 北京市 -q false
+query_ticket -s 江苏省句容市 -t 湖南省常德市 -d 07-05 -p time
+query_ticket -s 安徽省滁州市 -t 江西省乐平市 -d 06-30 -p time
+query_ticket -s 北京市 -t 福建省建阳市 -d 07-05 -p time
+query_ticket -s 广东省南雄市 -t 浙江省台州市 -d 06-27 -p cost
+buy_ticket -u Istina -i INSCRIPTIONS -d 06-28 -n 4443 -f 陕西省华阴市 -t 江苏省新沂市 -q true
+query_ticket -s 北京市 -t 广东省江门市 -d 07-12 -p time
+query_order -u Rope
+buy_ticket -u Vigna -i INSCRIPTIONS -d 07-15 -n 9268 -f 江西省南昌市 -t 陕西省延安市 -q true
+buy_ticket -u Myrtle -i LeavesofGrass -d 08-13 -n 5018 -f 山东省栖霞市 -t 福建省漳州市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 07-28 -n 2428 -f 山东省栖霞市 -t 河北省石家庄市 -q true
+query_ticket -s 广东省鹤山市 -t 湖南省吉首市 -d 06-12 -p cost
+buy_ticket -u Hung -i LeavesofGrass -d 07-13 -n 636 -f 重庆市南川市 -t 福建省漳州市 -q true
+query_ticket -s 河南省邓州市 -t 吉林省龙井市 -d 07-05 -p time
+buy_ticket -u Shining -i TOFOREIGNLANDS -d 08-16 -n 16659 -f 贵州省贵阳市 -t 北京市 -q true
+buy_ticket -u Greyy -i INSCRIPTIONS -d 07-24 -n 11079 -f 河北省衡水市 -t 浙江省永康市
+buy_ticket -u Scavenger -i LeavesofGrass -d 08-09 -n 5417 -f 福建省漳州市 -t 广东省罗定市 -q true
+buy_ticket -u Nian -i LeavesofGrass -d 07-25 -n 1565 -f 福建省莆田市 -t 天津市 -q true
+buy_ticket -u Scavenger -i LeavesofGrass -d 08-10 -n 2819 -f 福建省漳州市 -t 天津市 -q false
+buy_ticket -u ProjeKTRed -i TOFOREIGNLANDS -d 08-18 -n 16879 -f 四川省都江堰市 -t 河北省任丘市 -q true
+query_ticket -s 北京市 -t 广西梧州市 -d 07-26 -p time
+buy_ticket -u Mostima -i LeavesofGrass -d 07-29 -n 5280 -f 重庆市南川市 -t 河北省石家庄市 -q true
+buy_ticket -u W -i TOFOREIGNLANDS -d 07-23 -n 4285 -f 北京市 -t 四川省峨眉山市 -q true
+query_ticket -s 福建省漳州市 -t 河北省晋州市 -d 07-15 -p cost
+buy_ticket -u Skadi -i INSCRIPTIONS -d 07-11 -n 9190 -f 辽宁省沈阳市 -t 福建省永安市 -q true
+buy_ticket -u Gravel -i LeavesofGrass -d 08-15 -n 1389 -f 吉林省图们市 -t 天津市 -q true
+query_ticket -s 辽宁省沈阳市 -t 浙江省永康市 -d 07-14 -p time
+query_ticket -s 北京市 -t 山东省淄博市 -d 07-15 -p time
+buy_ticket -u Estelle -i IHEARDthatyouask -d 07-07 -n 9903 -f 辽宁省辽阳市 -t 河南省辉县市 -q true
+buy_ticket -u Specter -i LeavesofGrass -d 07-15 -n 1096 -f 吉林省图们市 -t 四川省德阳市 -q true
+query_order -u Sesa
+query_ticket -s 河北省安国市 -t 辽宁省普兰店市 -d 07-21 -p time
+query_ticket -s 贵州省贵阳市 -t 北京市 -d 06-18 -p cost
+add_train -i Thousternremorsel -n 13 -m 70953 -s 新疆昌吉市|黑龙江省五常市|辽宁省北宁市|广西北流市|河北省定州市|辽宁省瓦房店市|辽宁省沈阳市|山东省禹城市|山东省曲阜市|湖北省随州市|河南省焦作市|广西玉林市|江苏省张家港市 -p 2879|3145|959|4991|3843|1903|2522|1818|4339|256|4022|4109 -x 16:03 -t 173|151|205|193|162|81|35|135|110|126|121|158 -o 4|10|7|6|4|6|9|10|6|5|4 -d 07-29|08-28 -y D
+query_ticket -s 辽宁省辽阳市 -t 河南省邓州市 -d 07-24 -p time
+buy_ticket -u Matoimaru -i IHEARDthatyouask -d 08-18 -n 16441 -f 贵州省福泉市 -t 浙江省台州市 -q true
+release_train -i Thousternremorsel
+query_ticket -s 山西省朔州市 -t 辽宁省庄河市 -d 07-09 -p time
+query_ticket -s 江西省南昌市 -t 陕西省延安市 -d 07-23 -p cost
+buy_ticket -u Reed -i IHEARDthatyouask -d 07-04 -n 2117 -f 山东省诸城市 -t 黑龙江省海林市 -q true
+query_ticket -s 黑龙江省讷河市 -t 江苏省无锡市 -d 06-22 -p time
+buy_ticket -u Sideroca -i LeavesofGrass -d 08-14 -n 427 -f 重庆市南川市 -t 广东省罗定市 -q true
+query_ticket -s 广东省英德市 -t 广东省南海市 -d 07-29 -p time
+query_ticket -s 辽宁省沈阳市 -t 河南省义马市 -d 07-01 -p cost
+query_ticket -s 陕西省华阴市 -t 江苏省淮阴市 -d 06-14 -p time
+query_ticket -s 贵州省赤水市 -t 湖南省武冈市 -d 06-27 -p cost
+query_ticket -s 安徽省桐城市 -t 辽宁省沈阳市 -d 06-22 -p time
+buy_ticket -u Estelle -i TOFOREIGNLANDS -d 06-20 -n 20585 -f 湖北省黄石市 -t 河北省任丘市
+query_ticket -s 河北省冀州市 -t 福建省南平市 -d 07-14 -p time
+buy_ticket -u Cliffheart -i INSCRIPTIONS -d 07-16 -n 1973 -f 江苏省新沂市 -t 浙江省永康市 -q true
+query_ticket -s 内蒙集宁市 -t 辽宁省沈阳市 -d 07-04 -p cost
+query_ticket -s 山东省即墨市 -t 云南省昆明市 -d 06-27 -p cost
+query_ticket -s 云南省开远市 -t 辽宁省本溪市 -d 07-21 -p time
+query_ticket -s 云南省潞西市 -t 贵州省赤水市 -d 07-15 -p time
+buy_ticket -u Nian -i LeavesofGrass -d 08-05 -n 4978 -f 吉林省图们市 -t 广东省罗定市 -q true
+query_ticket -s 吉林省长春市 -t 福建省南平市 -d 06-30 -p cost
+query_ticket -s 辽宁省普兰店市 -t 吉林省吉林市 -d 07-08 -p time
+query_ticket -s 安徽省桐城市 -t 福建省永安市 -d 06-28 -p time
+query_ticket -s 广西岑溪市 -t 黑龙江省铁力市 -d 08-03 -p cost
+buy_ticket -u Vulcan -i LeavesofGrass -d 08-16 -n 5280 -f 重庆市南川市 -t 天津市 -q true
+query_order -u Conviction
+buy_ticket -u Meteorite -i LeavesofGrass -d 07-30 -n 3162 -f 河北省晋州市 -t 河北省石家庄市 -q true
+buy_ticket -u Angelina -i IHEARDthatyouask -d 06-29 -n 1179 -f 河南省辉县市 -t 广东省恩平市
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-22 -p time
+query_ticket -s 安徽省滁州市 -t 河北省任丘市 -d 07-29 -p cost
+query_ticket -s 广西岑溪市 -t 山西省朔州市 -d 07-16 -p cost
+buy_ticket -u GreyThroat -i INSCRIPTIONS -d 06-19 -n 2662 -f 辽宁省沈阳市 -t 浙江省永康市
+query_ticket -s 广西梧州市 -t 山东省淄博市 -d 07-25 -p time
+query_ticket -s 山东省莱西市 -t 湖南省吉首市 -d 07-23 -p time
+query_ticket -s 江西省乐平市 -t 河北省任丘市 -d 06-17 -p cost
+query_ticket -s 辽宁省瓦房店市 -t 江苏省张家港市 -d 08-08 -p time
+query_ticket -s 广东省深圳市 -t 天津市 -d 07-03 -p time
+query_ticket -s 吉林省蛟河市 -t 河南省登封市 -d 07-19 -p time
+buy_ticket -u Cutter -i IHEARDthatyouask -d 07-19 -n 8679 -f 广东省恩平市 -t 浙江省台州市 -q true
+buy_ticket -u Hung -i LeavesofGrass -d 08-05 -n 1599 -f 北京市 -t 吉林省图们市
+buy_ticket -u Hibiscus -i LeavesofGrass -d 07-24 -n 2701 -f 浙江省瑞安市 -t 福建省漳州市 -q true
+buy_ticket -u Specter -i LeavesofGrass -d 07-14 -n 6354 -f 福建省莆田市 -t 广东省江门市 -q true
+buy_ticket -u Matterhorn -i LeavesofGrass -d 08-12 -n 4436 -f 浙江省瑞安市 -t 河北省晋州市 -q true
+buy_ticket -u Vigna -i TOFOREIGNLANDS -d 06-26 -n 4666 -f 北京市 -t 广东省清远市
+buy_ticket -u Breeze -i INSCRIPTIONS -d 07-22 -n 14485 -f 吉林省龙井市 -t 河南省义马市 -q true
+buy_ticket -u Beagle -i LeavesofGrass -d 08-11 -n 6266 -f 浙江省瑞安市 -t 河北省石家庄市 -q true
+query_ticket -s 河南省南阳市 -t 江苏省昆山市 -d 06-27 -p cost
+query_ticket -s 湖北省枝江市 -t 黑龙江省讷河市 -d 07-13 -p cost
+query_ticket -s 北京市 -t 浙江省杭州市 -d 07-19 -p time
+query_ticket -s 北京市 -t 山东省淄博市 -d 07-14 -p cost
+query_ticket -s 北京市 -t 浙江省永康市 -d 07-21 -p time
+query_ticket -s 河北省定州市 -t 辽宁省沈阳市 -d 07-31 -p cost
+buy_ticket -u Weedy -i AndtodefineAmeric -d 06-20 -n 12685 -f 甘肃省兰州市 -t 山西省运城市 -q true
+buy_ticket -u Pramanix -i LeavesofGrass -d 07-18 -n 3669 -f 吉林省图们市 -t 天津市 -q true
+query_ticket -s 广东省阳春市 -t 山西省孝义市 -d 07-04 -p cost
+query_order -u Kroos
+buy_ticket -u Chen -i INSCRIPTIONS -d 07-22 -n 5051 -f 河南省义马市 -t 浙江省永康市 -q true
+buy_ticket -u Frostleaf -i LeavesofGrass -d 08-14 -n 1025 -f 吉林省图们市 -t 河北省石家庄市 -q false
+buy_ticket -u Nearl -i INSCRIPTIONS -d 07-08 -n 15748 -f 江西省南昌市 -t 陕西省延安市
+buy_ticket -u Midnight -i LeavesofGrass -d 07-16 -n 3906 -f 重庆市南川市 -t 四川省德阳市
+query_ticket -s 广东省南雄市 -t 吉林省龙井市 -d 08-11 -p time
+buy_ticket -u Orchid -i TOTHEEOLDCAUSE -d 06-23 -n 16284 -f 黑龙江省北安市 -t 吉林省长春市 -q true
+query_ticket -s 吉林省长春市 -t 广东省阳春市 -d 07-15 -p cost
+buy_ticket -u Swire -i puzzletheNewWorld -d 07-15 -n 12117 -f 北京市 -t 广西梧州市 -q true
+query_ticket -s 四川省都江堰市 -t 河北省任丘市 -d 07-28 -p cost
+buy_ticket -u Flamebringer -i LeavesofGrass -d 08-07 -n 5070 -f 北京市 -t 广东省江门市 -q false
+query_ticket -s 吉林省图们市 -t 河北省晋州市 -d 08-07 -p time
+buy_ticket -u Bison -i IHEARDthatyouask -d 08-21 -n 13562 -f 贵州省福泉市 -t 湖南省湘潭市 -q true
+query_ticket -s 吉林省龙井市 -t 浙江省永康市 -d 07-15 -p cost
+query_ticket -s 云南省潞西市 -t 天津市 -d 07-09 -p time
+buy_ticket -u Aak -i LeavesofGrass -d 08-13 -n 3817 -f 北京市 -t 天津市 -q true
+buy_ticket -u Myrtle -i TOFOREIGNLANDS -d 08-02 -n 5127 -f 湖北省黄石市 -t 四川省都江堰市 -q true
+buy_ticket -u Shaw -i INSCRIPTIONS -d 07-04 -n 6378 -f 湖南省韶山市 -t 陕西省华阴市 -q false
+query_ticket -s 安徽省滁州市 -t 贵州省赤水市 -d 06-05 -p cost
+query_ticket -s 河北省安国市 -t 天津市 -d 07-08 -p cost
+query_ticket -s 内蒙集宁市 -t 湖北省枝江市 -d 07-13 -p cost
+query_ticket -s 贵州省福泉市 -t 广东省南雄市 -d 07-18 -p cost
+buy_ticket -u Rope -i INSCRIPTIONS -d 06-25 -n 10432 -f 陕西省华阴市 -t 陕西省渭南市 -q true
+buy_ticket -u Eyjafjalla -i puzzletheNewWorld -d 08-03 -n 13053 -f 浙江省杭州市 -t 山东省淄博市 -q true
+query_ticket -s 湖北省恩施市 -t 河南省邓州市 -d 08-18 -p time
+query_ticket -s 湖南省资兴市 -t 浙江省余姚市 -d 07-06 -p time
+buy_ticket -u Myrtle -i TOFOREIGNLANDS -d 08-11 -n 5 -f 安徽省滁州市 -t 广东省清远市 -q true
+buy_ticket -u Weedy -i LeavesofGrass -d 08-05 -n 4110 -f 广东省罗定市 -t 四川省德阳市
+query_ticket -s 内蒙集宁市 -t 北京市 -d 06-26 -p time
+query_ticket -s 广东省深圳市 -t 辽宁省沈阳市 -d 07-08 -p cost
+query_ticket -s 北京市 -t 云南省开远市 -d 07-07 -p cost
+buy_ticket -u Silence -i TOFOREIGNLANDS -d 07-11 -n 20405 -f 贵州省贵阳市 -t 河北省任丘市 -q true
+query_ticket -s 江西省南昌市 -t 江苏省新沂市 -d 07-16 -p cost
+query_ticket -s 湖南省常德市 -t 浙江省余姚市 -d 06-29 -p time
+query_ticket -s 天津市 -t 云南省昆明市 -d 06-30 -p cost
+query_ticket -s 浙江省永康市 -t 湖北省老河口市 -d 08-03 -p time
+query_ticket -s 贵州省安顺市 -t 云南省昆明市 -d 07-30 -p time
+buy_ticket -u Midnight -i INSCRIPTIONS -d 06-28 -n 2007 -f 陕西省延安市 -t 河北省衡水市 -q true
+buy_ticket -u Eyjafjalla -i TOtheeoldcause -d 07-14 -n 5993 -f 湖北省老河口市 -t 辽宁省本溪市 -q true
+buy_ticket -u Shaw -i INSCRIPTIONS -d 07-11 -n 9487 -f 北京市 -t 河北省衡水市 -q true
+query_ticket -s 辽宁省辽阳市 -t 山西省运城市 -d 07-26 -p time
+query_ticket -s 广东省深圳市 -t 辽宁省沈阳市 -d 06-04 -p time
+query_ticket -s 山东省栖霞市 -t 广东省罗定市 -d 07-13 -p time
+query_ticket -s 陕西省宝鸡市 -t 江苏省无锡市 -d 07-19 -p cost
+buy_ticket -u Kroos -i LeavesofGrass -d 08-14 -n 1692 -f 四川省德阳市 -t 河北省石家庄市 -q true
+query_ticket -s 四川省都江堰市 -t 四川省峨眉山市 -d 08-05 -p time
+buy_ticket -u Siege -i INSCRIPTIONS -d 07-22 -n 303 -f 江西省南昌市 -t 江苏省新沂市 -q true
+buy_ticket -u Jessica -i LeavesofGrass -d 07-22 -n 170 -f 浙江省瑞安市 -t 天津市 -q true
+buy_ticket -u Schwarz -i TOTHEEOLDCAUSE -d 06-30 -n 18799 -f 河北省冀州市 -t 福建省南平市
+query_ticket -s 贵州省贵阳市 -t 福建省建阳市 -d 07-17 -p time
+buy_ticket -u Myrrh -i AndtodefineAmeric -d 08-13 -n 2967 -f 甘肃省兰州市 -t 湖南省冷水江市 -q true
+query_ticket -s 吉林省长春市 -t 山西省孝义市 -d 06-28 -p time
+buy_ticket -u Zima -i Thousternremorsel -d 08-09 -n 4293 -f 辽宁省北宁市 -t 江苏省张家港市 -q true
+query_ticket -s 江苏省连云港市 -t 湖南省吉首市 -d 07-18 -p time
+buy_ticket -u Chen -i LeavesofGrass -d 07-28 -n 1541 -f 重庆市南川市 -t 吉林省图们市 -q true
+query_ticket -s 山东省即墨市 -t 山西省运城市 -d 06-18 -p time
+query_ticket -s 广西岑溪市 -t 辽宁省庄河市 -d 06-12 -p time
+query_ticket -s 北京市 -t 广西梧州市 -d 07-26 -p time
+buy_ticket -u Schwarz -i INSCRIPTIONS -d 06-30 -n 2946 -f 江西省南昌市 -t 辽宁省沈阳市 -q true
+query_ticket -s 广东省罗定市 -t 天津市 -d 07-24 -p cost
+query_ticket -s 河南省焦作市 -t 广西玉林市 -d 08-07 -p cost
+query_ticket -s 北京市 -t 河南省登封市 -d 06-21 -p time
+buy_ticket -u Melantha -i INSCRIPTIONS -d 06-27 -n 9273 -f 陕西省华阴市 -t 浙江省永康市 -q true
+query_ticket -s 湖北省恩施市 -t 广东省恩平市 -d 08-18 -p cost
+query_ticket -s 辽宁省辽阳市 -t 黑龙江省双城市 -d 06-14 -p time
+buy_ticket -u Eyjafjalla -i INSCRIPTIONS -d 07-21 -n 3123 -f 河南省义马市 -t 福建省永安市 -q true
+query_ticket -s 黑龙江省北安市 -t 广东省阳春市 -d 06-22 -p cost
+query_ticket -s 黑龙江省北安市 -t 福建省南平市 -d 07-13 -p cost
+buy_ticket -u Angelina -i LeavesofGrass -d 07-25 -n 4558 -f 吉林省图们市 -t 浙江省瑞安市 -q true
+query_ticket -s 北京市 -t 山东省淄博市 -d 07-29 -p time
+buy_ticket -u Myrrh -i LeavesofGrass -d 08-10 -n 5128 -f 广东省罗定市 -t 天津市 -q true
+buy_ticket -u Gravel -i LeavesofGrass -d 07-22 -n 2246 -f 吉林省图们市 -t 广东省江门市 -q true
+buy_ticket -u Flamebringer -i LeavesofGrass -d 07-27 -n 1393 -f 重庆市南川市 -t 天津市 -q true
+buy_ticket -u W -i INSCRIPTIONS -d 07-03 -n 15282 -f 陕西省华阴市 -t 江苏省新沂市 -q true
+buy_ticket -u Jessica -i LeavesofGrass -d 08-03 -n 5487 -f 山东省栖霞市 -t 广东省江门市 -q true
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-19 -p time
+query_ticket -s 重庆市南川市 -t 天津市 -d 07-14 -p time
+query_ticket -s 山东省安丘市 -t 辽宁省沈阳市 -d 06-08 -p cost
+buy_ticket -u Durin -i ThereforeIsendyou -d 08-09 -n 3223 -f 广东省鹤山市 -t 黑龙江省铁力市 -q true
+refund_ticket -u Yato -n 1
+buy_ticket -u Warfarin -i LeavesofGrass -d 07-18 -n 26 -f 福建省莆田市 -t 河北省晋州市
+buy_ticket -u Plume -i INSCRIPTIONS -d 07-15 -n 3327 -f 北京市 -t 河南省义马市 -q true
+query_ticket -s 辽宁省北宁市 -t 广西北流市 -d 08-21 -p time
+buy_ticket -u Warfarin -i LeavesofGrass -d 08-06 -n 4130 -f 浙江省瑞安市 -t 天津市 -q true
+query_ticket -s 山东省泰安市 -t 浙江省余姚市 -d 07-09 -p cost
+buy_ticket -u Astesia -i TOFOREIGNLANDS -d 07-07 -n 20801 -f 湖北省黄石市 -t 河北省任丘市 -q false
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-11 -p cost
+query_order -u Beagle
+query_ticket -s 山东省诸城市 -t 湖北省恩施市 -d 06-29 -p cost
+query_ticket -s 安徽省滁州市 -t 河北省安国市 -d 07-23 -p time
+buy_ticket -u Beagle -i LeavesofGrass -d 08-01 -n 5488 -f 福建省莆田市 -t 河北省晋州市
+query_ticket -s 浙江省永康市 -t 云南省开远市 -d 07-30 -p time
+query_ticket -s 湖北省黄石市 -t 福建省建阳市 -d 07-05 -p cost
+buy_ticket -u Lappland -i LeavesofGrass -d 07-20 -n 3124 -f 浙江省瑞安市 -t 广东省江门市
+query_ticket -s 湖南省资兴市 -t 江苏省句容市 -d 06-25 -p cost
+buy_ticket -u Mousse -i INSCRIPTIONS -d 06-29 -n 11654 -f 江西省南昌市 -t 陕西省华阴市 -q false
+query_order -u Eyjafjalla
+buy_ticket -u Ifrit -i LeavesofGrass -d 07-31 -n 223 -f 天津市 -t 广东省江门市 -q true
+query_ticket -s 云南省昆明市 -t 吉林省公主岭市 -d 07-01 -p time
+query_train -d 01-26 -i AndtodefineAmeric
+buy_ticket -u Scavenger -i TOFOREIGNLANDS -d 07-03 -n 946 -f 湖北省黄石市 -t 安徽省滁州市 -q true
+buy_ticket -u Schwarz -i LeavesofGrass -d 07-20 -n 3682 -f 北京市 -t 福建省漳州市 -q true
+query_ticket -s 四川省德阳市 -t 广东省江门市 -d 08-09 -p time
+query_order -u WaaiFu
+query_ticket -s 陕西省榆林市 -t 江苏省扬中市 -d 06-18 -p cost
+query_transfer -s 广东省高明市 -t 河北省霸州市 -d 01-26 -p time
+buy_ticket -u Gavial -i LeavesofGrass -d 08-15 -n 3940 -f 重庆市南川市 -t 天津市
+query_order -u Gummy
+buy_ticket -u Midnight -i INSCRIPTIONS -d 07-22 -n 10051 -f 陕西省渭南市 -t 福建省永安市 -q true
+buy_ticket -u Kroos -i INSCRIPTIONS -d 07-07 -n 1781 -f 陕西省华阴市 -t 河南省义马市 -q true
+query_order -u Vulcan
+query_ticket -s 云南省开远市 -t 河南省登封市 -d 07-15 -p time
+buy_ticket -u Zima -i IHEARDthatyouask -d 08-21 -n 2787 -f 贵州省福泉市 -t 河南省辉县市 -q true
+query_ticket -s 辽宁省沈阳市 -t 山东省曲阜市 -d 08-27 -p time
+query_ticket -s 吉林省吉林市 -t 云南省潞西市 -d 06-19 -p time
+query_ticket -s 陕西省华阴市 -t 山东省安丘市 -d 06-04 -p time
+buy_ticket -u Swire -i ThereforeIsendyou -d 06-19 -n 6471 -f 湖北省钟祥市 -t 黑龙江省铁力市
+query_ticket -s 云南省潞西市 -t 江苏省扬中市 -d 07-13 -p cost
+buy_ticket -u Cliffheart -i INSCRIPTIONS -d 07-16 -n 5789 -f 北京市 -t 河南省义马市 -q true
+buy_ticket -u Beagle -i IHEARDthatyouask -d 08-21 -n 11582 -f 山东省诸城市 -t 湖南省湘潭市
+buy_ticket -u Silence -i IHEARDthatyouask -d 08-23 -n 5534 -f 广东省南雄市 -t 河南省辉县市 -q true
+query_ticket -s 北京市 -t 浙江省瑞安市 -d 08-08 -p time
+query_ticket -s 河北省晋州市 -t 四川省德阳市 -d 08-10 -p time
+buy_ticket -u Shaw -i TOFOREIGNLANDS -d 06-21 -n 12826 -f 河南省鹤壁市 -t 四川省峨眉山市 -q false
+buy_ticket -u Rope -i TOFOREIGNLANDS -d 06-18 -n 11772 -f 贵州省贵阳市 -t 江西省上饶市 -q true
+query_ticket -s 安徽省滁州市 -t 四川省都江堰市 -d 08-18 -p cost
+query_ticket -s 陕西省华阴市 -t 江西省吉安市 -d 06-29 -p time
+buy_ticket -u Platinum -i LeavesofGrass -d 08-05 -n 1833 -f 河北省晋州市 -t 广东省江门市 -q true
+query_ticket -s 黑龙江省北安市 -t 山西省孝义市 -d 06-22 -p time
+query_ticket -s 广东省恩平市 -t 福建省龙岩市 -d 07-02 -p cost
+query_ticket -s 山东省诸城市 -t 辽宁省辽阳市 -d 08-03 -p cost
+query_ticket -s 山东省栖霞市 -t 四川省德阳市 -d 07-29 -p time
+query_ticket -s 云南省昆明市 -t 河南省新郑市 -d 06-19 -p cost
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-06 -p time
+buy_ticket -u Grani -i LeavesofGrass -d 07-18 -n 2779 -f 福建省莆田市 -t 天津市 -q true
+buy_ticket -u Aak -i LeavesofGrass -d 08-04 -n 4269 -f 重庆市南川市 -t 天津市
+buy_ticket -u Ifrit -i LeavesofGrass -d 08-16 -n 4750 -f 北京市 -t 吉林省图们市 -q true
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-29 -p cost
+query_ticket -s 浙江省永康市 -t 河南省登封市 -d 06-15 -p cost
+buy_ticket -u Myrrh -i INSCRIPTIONS -d 07-07 -n 11004 -f 陕西省华阴市 -t 陕西省渭南市 -q true
+query_order -u Angelina
+buy_ticket -u Rope -i INSCRIPTIONS -d 07-12 -n 5360 -f 吉林省龙井市 -t 江苏省新沂市 -q true
+query_ticket -s 湖南省资兴市 -t 广东省雷州市 -d 07-23 -p cost
+query_ticket -s 吉林省长春市 -t 山西省孝义市 -d 07-06 -p cost
+buy_ticket -u Warfarin -i LeavesofGrass -d 08-11 -n 1210 -f 广东省江门市 -t 河北省石家庄市 -q true
+query_ticket -s 吉林省龙井市 -t 黑龙江省海林市 -d 07-29 -p cost
+buy_ticket -u Flamebringer -i LeavesofGrass -d 08-08 -n 1355 -f 北京市 -t 吉林省图们市 -q true
+query_ticket -s 黑龙江省双城市 -t 天津市 -d 07-30 -p cost
+query_ticket -s 陕西省华阴市 -t 湖北省广水市 -d 06-27 -p time
+buy_ticket -u Siege -i LeavesofGrass -d 08-01 -n 6379 -f 吉林省图们市 -t 天津市
+query_ticket -s 浙江省瑞安市 -t 四川省德阳市 -d 07-24 -p cost
+buy_ticket -u Eyjafjalla -i TOFOREIGNLANDS -d 06-15 -n 18769 -f 河南省鹤壁市 -t 江西省上饶市 -q true
+buy_ticket -u Astesia -i IHEARDthatyouask -d 07-21 -n 4030 -f 福建省龙岩市 -t 黑龙江省海林市 -q true
+query_ticket -s 广东省江门市 -t 河北省石家庄市 -d 08-03 -p time
+buy_ticket -u Skyfire -i LeavesofGrass -d 07-27 -n 3639 -f 福建省漳州市 -t 广东省江门市
+query_ticket -s 辽宁省沈阳市 -t 山东省禹城市 -d 08-12 -p cost
+release_train -i TOFOREIGNLANDS
+buy_ticket -u WaaiFu -i LeavesofGrass -d 08-03 -n 2374 -f 广东省罗定市 -t 广东省江门市 -q true
+query_ticket -s 安徽省桐城市 -t 陕西省华阴市 -d 06-23 -p cost
+buy_ticket -u Shamare -i IHEARDthatyouask -d 07-20 -n 1039 -f 湖南省湘潭市 -t 广东省恩平市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 07-13 -n 4247 -f 山东省栖霞市 -t 福建省漳州市 -q true
+buy_ticket -u Zima -i TOFOREIGNLANDS -d 06-26 -n 4568 -f 湖北省黄石市 -t 北京市 -q true
+query_ticket -s 湖北省黄石市 -t 河南省鹤壁市 -d 08-11 -p cost
+buy_ticket -u Skadi -i INSCRIPTIONS -d 06-26 -n 11896 -f 湖南省韶山市 -t 辽宁省沈阳市 -q true
+query_ticket -s 黑龙江省讷河市 -t 辽宁省沈阳市 -d 07-13 -p cost
+buy_ticket -u Ptilopsis -i IHEARDthatyouask -d 07-08 -n 12834 -f 河南省邓州市 -t 广东省恩平市 -q true
+query_ticket -s 福建省南平市 -t 河南省巩义市 -d 07-18 -p cost
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 08-25 -p time
+query_ticket -s 北京市 -t 广西梧州市 -d 07-22 -p cost
+buy_ticket -u Kroos -i LeavesofGrass -d 08-05 -n 4000 -f 河北省晋州市 -t 河北省石家庄市 -q true
+buy_ticket -u Hung -i TOFOREIGNLANDS -d 07-22 -n 14328 -f 湖北省黄石市 -t 安徽省滁州市 -q true
+buy_ticket -u Angelina -i INSCRIPTIONS -d 07-07 -n 6474 -f 安徽省桐城市 -t 陕西省渭南市
+buy_ticket -u Swire -i LeavesofGrass -d 08-12 -n 5761 -f 福建省漳州市 -t 河北省石家庄市 -q false
+buy_ticket -u Flamebringer -i LeavesofGrass -d 07-20 -n 4738 -f 福建省莆田市 -t 福建省漳州市
+buy_ticket -u Flamebringer -i LeavesofGrass -d 07-14 -n 4182 -f 重庆市南川市 -t 河北省石家庄市
+buy_ticket -u Eyjafjalla -i LeavesofGrass -d 08-05 -n 6500 -f 浙江省瑞安市 -t 广东省罗定市 -q true
+buy_ticket -u Astesia -i LeavesofGrass -d 08-03 -n 1585 -f 重庆市南川市 -t 四川省德阳市 -q true
+query_ticket -s 吉林省吉林市 -t 云南省潞西市 -d 06-25 -p time
+query_ticket -s 广西梧州市 -t 浙江省杭州市 -d 08-10 -p time
+buy_ticket -u Angelina -i TOFOREIGNLANDS -d 07-14 -n 20787 -f 江西省上饶市 -t 河北省任丘市 -q true
+query_ticket -s 湖北省广水市 -t 山西省孝义市 -d 06-29 -p cost
+query_ticket -s 四川省都江堰市 -t 福建省建阳市 -d 06-19 -p cost
+buy_ticket -u Midnight -i LeavesofGrass -d 07-15 -n 4471 -f 北京市 -t 浙江省瑞安市 -q false
+query_transfer -s 浙江省绍兴市 -t 安徽省桐城市 -d 04-19 -p cost
+query_ticket -s 河南省义马市 -t 福建省永安市 -d 07-17 -p time
+query_ticket -s 河南省邓州市 -t 江苏省太仓市 -d 07-24 -p cost
+query_order -u Snowsant
+buy_ticket -u Eyjafjalla -i LeavesofGrass -d 07-29 -n 3182 -f 天津市 -t 广东省江门市 -q true
+query_ticket -s 陕西省华阴市 -t 江苏省淮阴市 -d 06-20 -p cost
+buy_ticket -u Midnight -i Thoupeerlesspassi -d 06-10 -n 7872 -f 河北省安国市 -t 陕西省华阴市 -q true
+query_transfer -s 四川省广汉市 -t 湖南省涟源市 -d 06-17 -p time
+buy_ticket -u Zima -i INSCRIPTIONS -d 07-12 -n 908 -f 河北省衡水市 -t 辽宁省沈阳市 -q true
+query_ticket -s 江西省乐平市 -t 四川省都江堰市 -d 08-10 -p cost
+buy_ticket -u Chen -i LeavesofGrass -d 08-15 -n 549 -f 重庆市南川市 -t 四川省德阳市
+query_ticket -s 贵州省安顺市 -t 山西省运城市 -d 07-24 -p time
+query_ticket -s 黑龙江省双城市 -t 山东省即墨市 -d 07-20 -p cost
+buy_ticket -u Ptilopsis -i LeavesofGrass -d 07-24 -n 4 -f 福建省莆田市 -t 四川省德阳市 -q true
+query_ticket -s 浙江省瑞安市 -t 广东省罗定市 -d 08-02 -p cost
+query_ticket -s 广西岑溪市 -t 吉林省四平市 -d 06-13 -p cost
+query_ticket -s 河南省辉县市 -t 广东省恩平市 -d 08-02 -p cost
+query_ticket -s 河南省巩义市 -t 广东省阳春市 -d 07-17 -p cost
+buy_ticket -u Midnight -i LeavesofGrass -d 07-25 -n 6062 -f 重庆市南川市 -t 广东省江门市 -q true
+buy_ticket -u Shamare -i LeavesofGrass -d 07-13 -n 1251 -f 浙江省瑞安市 -t 天津市 -q false
+buy_ticket -u Dobermann -i LeavesofGrass -d 07-21 -n 6929 -f 浙江省瑞安市 -t 广东省江门市 -q true
+query_ticket -s 湖南省常德市 -t 江苏省无锡市 -d 07-07 -p cost
+query_ticket -s 福建省永安市 -t 浙江省永康市 -d 07-03 -p cost
+buy_ticket -u Sesa -i TOFOREIGNLANDS -d 07-27 -n 854 -f 四川省都江堰市 -t 广东省清远市 -q true
+buy_ticket -u Hibiscus -i LeavesofGrass -d 07-31 -n 300 -f 浙江省瑞安市 -t 河北省石家庄市 -q false
+query_ticket -s 贵州省安顺市 -t 山东省即墨市 -d 08-01 -p cost
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-21 -p cost
+buy_ticket -u Deepcolor -i LeavesofGrass -d 07-29 -n 4915 -f 北京市 -t 浙江省瑞安市
+buy_ticket -u I_am_the_admin -i AndtodefineAmeric -d 07-22 -n 12970 -f 贵州省安顺市 -t 甘肃省兰州市 -q true
+query_ticket -s 河北省安国市 -t 贵州省赤水市 -d 06-23 -p time
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 08-24 -p time
+query_ticket -s 贵州省安顺市 -t 黑龙江省双城市 -d 07-15 -p time
+buy_ticket -u Nian -i LeavesofGrass -d 07-29 -n 4940 -f 吉林省图们市 -t 广东省罗定市 -q true
+buy_ticket -u Swire -i puzzletheNewWorld -d 07-28 -n 5872 -f 北京市 -t 山东省淄博市 -q true
+buy_ticket -u Mostima -i LeavesofGrass -d 07-12 -n 1960 -f 广东省罗定市 -t 河北省石家庄市 -q true
+query_ticket -s 江苏省淮阴市 -t 湖南省武冈市 -d 07-12 -p time
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 08-08 -p time
+query_ticket -s 河南省鹤壁市 -t 河北省任丘市 -d 06-20 -p cost
+query_ticket -s 云南省昆明市 -t 湖北省老河口市 -d 07-21 -p cost
+buy_ticket -u Ifrit -i INSCRIPTIONS -d 07-09 -n 3401 -f 陕西省渭南市 -t 江苏省新沂市 -q true
+buy_ticket -u Skadi -i LeavesofGrass -d 08-01 -n 550 -f 山东省栖霞市 -t 广东省罗定市 -q true
+query_ticket -s 辽宁省辽阳市 -t 黑龙江省双城市 -d 07-13 -p time
+query_ticket -s 云南省昆明市 -t 河南省登封市 -d 06-17 -p cost
+buy_ticket -u Siege -i IHEARDthatyouask -d 08-23 -n 12085 -f 广东省南雄市 -t 辽宁省辽阳市 -q false
+query_ticket -s 北京市 -t 河北省衡水市 -d 07-01 -p time
+buy_ticket -u Jessica -i whatyouwanted -d 07-07 -n 10189 -f 内蒙集宁市 -t 山东省泰安市
+buy_ticket -u Ifrit -i LeavesofGrass -d 07-19 -n 5672 -f 重庆市南川市 -t 山东省栖霞市 -q true
+query_ticket -s 湖北省恩施市 -t 吉林省龙井市 -d 08-07 -p cost
+buy_ticket -u Estelle -i INSCRIPTIONS -d 06-24 -n 4830 -f 陕西省华阴市 -t 江苏省新沂市
+query_ticket -s 江苏省淮阴市 -t 湖南省武冈市 -d 06-23 -p cost
+buy_ticket -u Gravel -i INSCRIPTIONS -d 07-24 -n 11063 -f 湖南省韶山市 -t 陕西省渭南市
+buy_ticket -u Warfarin -i LeavesofGrass -d 07-20 -n 4550 -f 福建省莆田市 -t 福建省漳州市 -q true
+query_ticket -s 湖北省黄石市 -t 贵州省贵阳市 -d 07-01 -p time
+query_ticket -s 福建省龙岩市 -t 江苏省太仓市 -d 07-08 -p cost
+query_ticket -s 湖南省湘潭市 -t 广东省恩平市 -d 07-18 -p time
+buy_ticket -u Schwarz -i LeavesofGrass -d 07-17 -n 2748 -f 浙江省瑞安市 -t 天津市 -q true
+buy_ticket -u Shamare -i LeavesofGrass -d 07-25 -n 3989 -f 福建省莆田市 -t 广东省罗定市 -q true
+query_ticket -s 湖南省韶山市 -t 江苏省新沂市 -d 06-28 -p cost
+buy_ticket -u Ceylon -i INSCRIPTIONS -d 07-16 -n 16700 -f 陕西省华阴市 -t 浙江省永康市 -q true
+query_train -d 04-04 -i whatyouwanted
+buy_ticket -u Hung -i LeavesofGrass -d 08-10 -n 7079 -f 广东省江门市 -t 河北省石家庄市 -q false
+query_ticket -s 广东省雷州市 -t 浙江省余姚市 -d 07-16 -p cost
+query_ticket -s 广东省雷州市 -t 湖北省枝江市 -d 07-19 -p cost
+buy_ticket -u Siege -i TOFOREIGNLANDS -d 07-02 -n 22850 -f 江西省乐平市 -t 福建省建阳市 -q true
+query_ticket -s 安徽省滁州市 -t 河北省任丘市 -d 06-28 -p cost
+query_ticket -s 广东省阳春市 -t 山西省孝义市 -d 07-21 -p cost
+query_ticket -s 北京市 -t 河南省义马市 -d 07-19 -p time
+buy_ticket -u Myrrh -i puzzletheNewWorld -d 07-16 -n 2963 -f 北京市 -t 广西梧州市 -q true
+query_order -u Myrrh
+query_ticket -s 北京市 -t 山东省淄博市 -d 08-22 -p cost
+buy_ticket -u Durin -i INSCRIPTIONS -d 07-15 -n 4610 -f 陕西省延安市 -t 陕西省华阴市 -q true
+buy_ticket -u Yato -i TOFOREIGNLANDS -d 07-03 -n 5996 -f 江西省乐平市 -t 广东省清远市 -q true
+buy_ticket -u Kroos -i LeavesofGrass -d 07-20 -n 3964 -f 浙江省瑞安市 -t 山东省栖霞市 -q true
+buy_ticket -u Lava -i TOFOREIGNLANDS -d 08-05 -n 10631 -f 安徽省滁州市 -t 河北省任丘市 -q true
+buy_ticket -u Matterhorn -i LeavesofGrass -d 08-06 -n 2056 -f 吉林省图们市 -t 河北省晋州市 -q true
+buy_ticket -u Breeze -i LeavesofGrass -d 07-30 -n 4614 -f 浙江省瑞安市 -t 四川省德阳市 -q true
+query_ticket -s 安徽省滁州市 -t 广东省清远市 -d 07-22 -p time
+buy_ticket -u Astesia -i LeavesofGrass -d 07-18 -n 6014 -f 浙江省瑞安市 -t 河北省晋州市 -q true
+buy_ticket -u Gravel -i LeavesofGrass -d 07-20 -n 435 -f 河北省晋州市 -t 四川省德阳市 -q true
+buy_ticket -u Deepcolor -i INSCRIPTIONS -d 06-23 -n 17105 -f 湖南省韶山市 -t 福建省永安市 -q true
+query_ticket -s 北京市 -t 陕西省延安市 -d 07-04 -p cost
+query_order -u Sideroca
+query_ticket -s 辽宁省辽阳市 -t 河南省辉县市 -d 08-11 -p cost
+buy_ticket -u Bibeak -i IHEARDthatyouask -d 08-20 -n 1835 -f 河南省辉县市 -t 江苏省太仓市 -q true
+buy_ticket -u Yato -i INSCRIPTIONS -d 06-19 -n 17404 -f 河北省衡水市 -t 陕西省渭南市 -q false
+buy_ticket -u Snowsant -i LeavesofGrass -d 08-09 -n 1120 -f 北京市 -t 重庆市南川市
+buy_ticket -u Swire -i IHEARDthatyouask -d 07-28 -n 14477 -f 湖北省恩施市 -t 吉林省龙井市 -q true
+query_ticket -s 江西省吉安市 -t 山西省孝义市 -d 07-12 -p cost
+buy_ticket -u Ceobe -i TOFOREIGNLANDS -d 07-16 -n 10889 -f 湖北省黄石市 -t 江西省上饶市
+query_ticket -s 内蒙集宁市 -t 湖南省资兴市 -d 07-07 -p cost
+query_ticket -s 陕西省华阴市 -t 江苏省淮阴市 -d 07-21 -p time
+query_ticket -s 陕西省延安市 -t 陕西省华阴市 -d 07-14 -p cost
+delete_train -i whatyouwanted
+buy_ticket -u Estelle -i LeavesofGrass -d 07-22 -n 5163 -f 福建省莆田市 -t 四川省德阳市 -q false
+buy_ticket -u Cliffheart -i LeavesofGrass -d 07-18 -n 5294 -f 福建省莆田市 -t 四川省德阳市 -q true
+query_ticket -s 江西省上饶市 -t 四川省峨眉山市 -d 06-14 -p time
+buy_ticket -u Midnight -i puzzletheNewWorld -d 08-19 -n 10499 -f 北京市 -t 浙江省杭州市 -q true
+buy_ticket -u Weedy -i LeavesofGrass -d 07-27 -n 4779 -f 北京市 -t 河北省石家庄市 -q false
+query_ticket -s 陕西省华阴市 -t 广东省阳春市 -d 07-06 -p time
+buy_ticket -u Shining -i LeavesofGrass -d 07-27 -n 346 -f 吉林省图们市 -t 广东省罗定市 -q true
+buy_ticket -u Matterhorn -i LeavesofGrass -d 07-13 -n 3809 -f 福建省莆田市 -t 山东省栖霞市 -q true
+buy_ticket -u Frostleaf -i TOFOREIGNLANDS -d 07-04 -n 3578 -f 河南省鹤壁市 -t 福建省建阳市
+buy_ticket -u Skadi -i INSCRIPTIONS -d 06-19 -n 1001 -f 江西省南昌市 -t 湖南省韶山市
+query_ticket -s 吉林省公主岭市 -t 河南省新郑市 -d 06-20 -p cost
+query_ticket -s 新疆喀什市 -t 广东省英德市 -d 06-09 -p time
+query_ticket -s 黑龙江省双城市 -t 山东省即墨市 -d 08-04 -p cost
+query_ticket -s 江西省乐平市 -t 四川省都江堰市 -d 07-26 -p cost
+query_ticket -s 甘肃省兰州市 -t 云南省昆明市 -d 08-02 -p time
+buy_ticket -u Yato -i LeavesofGrass -d 08-01 -n 688 -f 北京市 -t 山东省栖霞市 -q true
+query_ticket -s 吉林省舒兰市 -t 江苏省句容市 -d 07-06 -p time
+query_ticket -s 山西省朔州市 -t 湖北省钟祥市 -d 06-09 -p cost
+buy_ticket -u Beehunter -i TOFOREIGNLANDS -d 07-07 -n 2351 -f 湖北省黄石市 -t 福建省建阳市
+buy_ticket -u Gitano -i INSCRIPTIONS -d 07-19 -n 3229 -f 辽宁省沈阳市 -t 陕西省华阴市
+query_ticket -s 安徽省滁州市 -t 贵州省赤水市 -d 06-07 -p time
+buy_ticket -u Shaw -i TOFOREIGNLANDS -d 07-24 -n 20354 -f 福建省建阳市 -t 四川省峨眉山市 -q true
+buy_ticket -u Hibiscus -i IHEARDthatyouask -d 08-13 -n 10152 -f 浙江省台州市 -t 江苏省太仓市 -q true
+buy_ticket -u Vulcan -i INSCRIPTIONS -d 06-26 -n 3591 -f 湖南省韶山市 -t 河南省义马市
+buy_ticket -u Breeze -i TOFOREIGNLANDS -d 07-15 -n 16763 -f 四川省都江堰市 -t 福建省建阳市 -q true
+query_ticket -s 江西省吉安市 -t 河南省巩义市 -d 07-15 -p time
+query_ticket -s 江西省吉安市 -t 广东省阳春市 -d 07-08 -p cost
+query_ticket -s 江西省乐平市 -t 北京市 -d 06-25 -p cost
+query_ticket -s 福建省莆田市 -t 山东省栖霞市 -d 07-30 -p cost
+query_ticket -s 河北省安国市 -t 陕西省华阴市 -d 06-15 -p time
+buy_ticket -u Aak -i IHEARDthatyouask -d 07-29 -n 4367 -f 广东省南雄市 -t 福建省龙岩市
+query_ticket -s 河南省鹤壁市 -t 广东省清远市 -d 07-04 -p time
+buy_ticket -u Bison -i LeavesofGrass -d 07-26 -n 3966 -f 浙江省瑞安市 -t 山东省栖霞市 -q true
+query_ticket -s 吉林省龙井市 -t 广东省恩平市 -d 08-03 -p time
+query_ticket -s 陕西省华阴市 -t 福建省永安市 -d 06-19 -p time
+buy_ticket -u Gummy -i LeavesofGrass -d 08-07 -n 1102 -f 四川省德阳市 -t 河北省石家庄市 -q true
+buy_ticket -u Cliffheart -i TOFOREIGNLANDS -d 06-16 -n 11990 -f 湖北省黄石市 -t 四川省都江堰市 -q true
+buy_ticket -u Plume -i LeavesofGrass -d 07-29 -n 773 -f 浙江省瑞安市 -t 四川省德阳市 -q true
+query_transfer -s 湖南省郴州市 -t 辽宁省阜新市 -d 07-15 -p time
+query_ticket -s 吉林省龙井市 -t 湖南省韶山市 -d 06-29 -p time
+buy_ticket -u Gummy -i INSCRIPTIONS -d 07-14 -n 14425 -f 河北省衡水市 -t 湖南省韶山市 -q true
+buy_ticket -u Rope -i LeavesofGrass -d 07-15 -n 4713 -f 重庆市南川市 -t 广东省江门市 -q true
+buy_ticket -u Estelle -i INSCRIPTIONS -d 07-05 -n 6496 -f 江苏省新沂市 -t 浙江省永康市
+query_ticket -s 吉林省吉林市 -t 江苏省淮阴市 -d 06-15 -p time
+buy_ticket -u Savage -i TOFOREIGNLANDS -d 07-25 -n 1180 -f 北京市 -t 江西省上饶市 -q true
+query_ticket -s 云南省昆明市 -t 河南省登封市 -d 06-27 -p time
+query_ticket -s 黑龙江省双城市 -t 云南省昆明市 -d 07-31 -p cost
+query_ticket -s 北京市 -t 江西省南昌市 -d 06-29 -p time
+buy_ticket -u Frostleaf -i LeavesofGrass -d 08-08 -n 1835 -f 重庆市南川市 -t 广东省江门市 -q true
+buy_ticket -u Grani -i LeavesofGrass -d 07-26 -n 437 -f 浙江省瑞安市 -t 山东省栖霞市 -q true
+buy_ticket -u Greyy -i LeavesofGrass -d 07-31 -n 4641 -f 重庆市南川市 -t 吉林省图们市 -q true
+query_ticket -s 陕西省华阴市 -t 山西省孝义市 -d 07-10 -p cost
+buy_ticket -u Ifrit -i LeavesofGrass -d 07-19 -n 5325 -f 北京市 -t 四川省德阳市 -q true
+buy_ticket -u Executor -i INSCRIPTIONS -d 06-23 -n 4250 -f 陕西省延安市 -t 安徽省桐城市 -q true
+buy_ticket -u Jessica -i INSCRIPTIONS -d 07-10 -n 17427 -f 江西省南昌市 -t 江苏省新沂市 -q true
+query_ticket -s 河北省冀州市 -t 山西省孝义市 -d 07-12 -p cost
+buy_ticket -u Dobermann -i LeavesofGrass -d 07-30 -n 3758 -f 重庆市南川市 -t 福建省莆田市 -q true
+buy_ticket -u Ceobe -i LeavesofGrass -d 07-27 -n 3158 -f 河北省晋州市 -t 广东省罗定市 -q true
+refund_ticket -u Gitano -n 5
+buy_ticket -u Executor -i LeavesofGrass -d 08-01 -n 4677 -f 浙江省瑞安市 -t 福建省漳州市 -q true
+query_ticket -s 河南省邓州市 -t 吉林省龙井市 -d 07-14 -p cost
+query_ticket -s 北京市 -t 广东省罗定市 -d 07-22 -p time
+buy_ticket -u Matoimaru -i INSCRIPTIONS -d 06-23 -n 3260 -f 北京市 -t 福建省永安市 -q false
+query_order -u Greyy
+query_ticket -s 吉林省图们市 -t 山东省栖霞市 -d 07-28 -p cost
+buy_ticket -u Jessica -i puzzletheNewWorld -d 08-02 -n 12381 -f 浙江省杭州市 -t 山东省淄博市 -q true
+buy_ticket -u Warfarin -i LeavesofGrass -d 07-18 -n 6407 -f 山东省栖霞市 -t 四川省德阳市
+query_ticket -s 河北省衡水市 -t 江苏省新沂市 -d 07-19 -p cost
+query_ticket -s 黑龙江省讷河市 -t 浙江省余姚市 -d 06-22 -p cost
+buy_ticket -u Rope -i INSCRIPTIONS -d 07-08 -n 5154 -f 湖南省韶山市 -t 河南省义马市
+buy_ticket -u Warfarin -i LeavesofGrass -d 08-13 -n 6016 -f 北京市 -t 重庆市南川市 -q false
+query_ticket -s 黑龙江省五常市 -t 河北省定州市 -d 08-09 -p time
+buy_ticket -u Earthspirit -i IHEARDthatyouask -d 08-07 -n 5477 -f 广东省南雄市 -t 吉林省龙井市 -q true
+query_ticket -s 北京市 -t 浙江省杭州市 -d 08-10 -p cost
+query_order -u Midnight
+query_ticket -s 云南省开远市 -t 河南省南阳市 -d 08-03 -p cost
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 08-15 -p cost
+query_ticket -s 云南省开远市 -t 吉林省公主岭市 -d 08-03 -p time
+buy_ticket -u Vigna -i INSCRIPTIONS -d 06-24 -n 1255 -f 安徽省桐城市 -t 陕西省渭南市 -q true
+query_ticket -s 广东省雷州市 -t 湖南省常德市 -d 07-03 -p cost
+buy_ticket -u Jessica -i Thoupeerlesspassi -d 07-24 -n 14267 -f 云南省潞西市 -t 贵州省赤水市 -q false
+query_ticket -s 辽宁省辽阳市 -t 云南省昆明市 -d 06-25 -p cost
+buy_ticket -u Astesia -i LeavesofGrass -d 07-25 -n 1630 -f 广东省罗定市 -t 广东省江门市 -q true
+buy_ticket -u Pramanix -i IHEARDthatyouask -d 08-19 -n 780 -f 河南省邓州市 -t 河南省辉县市
+query_ticket -s 山东省曲阜市 -t 湖北省随州市 -d 07-29 -p cost
+buy_ticket -u Sideroca -i LeavesofGrass -d 08-02 -n 5941 -f 吉林省图们市 -t 福建省漳州市 -q true
+buy_ticket -u Astesia -i INSCRIPTIONS -d 07-23 -n 6337 -f 安徽省桐城市 -t 江苏省新沂市 -q true
+query_ticket -s 黑龙江省北安市 -t 河南省巩义市 -d 06-22 -p time
+query_ticket -s 辽宁省沈阳市 -t 山东省禹城市 -d 08-14 -p time
+query_ticket -s 辽宁省瓦房店市 -t 广西玉林市 -d 08-05 -p time
+buy_ticket -u Zima -i LeavesofGrass -d 07-13 -n 4635 -f 北京市 -t 重庆市南川市 -q false
+query_ticket -s 江苏省泰州市 -t 江苏省无锡市 -d 06-21 -p time
+query_ticket -s 湖北省黄石市 -t 福建省建阳市 -d 06-16 -p cost
+buy_ticket -u Pramanix -i LeavesofGrass -d 07-28 -n 799 -f 福建省漳州市 -t 广东省江门市 -q true
+query_ticket -s 浙江省杭州市 -t 山东省淄博市 -d 07-22 -p cost
+query_ticket -s 云南省昆明市 -t 浙江省永康市 -d 07-10 -p cost
+buy_ticket -u Swire -i IHEARDthatyouask -d 07-03 -n 8123 -f 贵州省福泉市 -t 吉林省龙井市 -q true
+buy_ticket -u Gravel -i LeavesofGrass -d 07-20 -n 2493 -f 浙江省瑞安市 -t 河北省晋州市 -q true
+query_order -u Platinum
+exit
